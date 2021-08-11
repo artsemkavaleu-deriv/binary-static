@@ -1407,6 +1407,9 @@ body #not_authenticated_financial ul.checked > li {
         border-radius: 9px;
         margin-top: 10px;
 
+        p {
+            font-size: 15.5px;
+        }
         &-desc {
             overflow: hidden;
             text-align: left;
