@@ -1400,7 +1400,7 @@ body #not_authenticated_financial ul.checked > li {
         }
     }
     &-box {
-        max-height: 86px;
+        min-height: 95px;
         display: flex;
         flex-wrap: wrap;
         flex-direction: row;
@@ -1408,7 +1408,7 @@ body #not_authenticated_financial ul.checked > li {
         margin-top: 10px;
 
         p {
-            font-size: 15.5px;
+            font-size: 16px;
         }
         &-desc {
             overflow: hidden;
@@ -1448,6 +1448,9 @@ body #not_authenticated_financial ul.checked > li {
                     padding: 0 0.2rem;
                 }
             }
+        }
+        &-icon {
+            height: 95px;
         }
         &-arrow {
             width: 5%;
