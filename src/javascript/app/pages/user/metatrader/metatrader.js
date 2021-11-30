@@ -7,6 +7,7 @@ const Validation         = require('../../../common/form_validation');
 const localize           = require('../../../../_common/localize').localize;
 const State              = require('../../../../_common/storage').State;
 const applyToAllElements = require('../../../../_common/utility').applyToAllElements;
+const isEuCountry        = require('../../../common/country_base').isEuCountry;
 
 const MetaTrader = (() => {
     let show_new_account_popup = true;
@@ -130,8 +131,13 @@ const MetaTrader = (() => {
 
                     ['demo', 'real'].forEach((account_type) => {
                         const is_demo = account_type === 'demo';
-                        const display_name =
-                            Client.getMT5AccountDisplays(market_type, sub_account_type, is_demo);
+                        const display_name = Client.getMT5AccountDisplays(
+                            market_type,
+                            sub_account_type,
+                            is_demo,
+                            landing_company_short,
+                            isEuCountry()
+                        );
                         const leverage = getLeverage(market_type, sub_account_type, landing_company_short);
 
                         const addAccountsInfo = (trading_server) => {
@@ -323,6 +329,11 @@ const MetaTrader = (() => {
                             });
                         }
                         MetaTraderUI.enableButton(action, response);
+                        await BinarySocket.send({ get_account_status: 1 });
+                        if (!MetaTraderUI.shouldSetTradingPassword()) {
+                            MetaTraderUI.displayStep(3);
+                            MetaTraderUI.displayFormMessage(response.error.message, action);
+                        }
                     } else {
                         await BinarySocket.send({ get_account_status: 1 });
                         if (getAccountsInfo(acc_type) && getAccountsInfo(acc_type).info) {

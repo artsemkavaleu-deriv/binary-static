@@ -340,6 +340,12 @@
                     font-weight: bold;
                     color: $COLOR_GRAY_SHADE;
                 }
+                #insufficient_funds {
+                    .insufficient-funds-error-link {
+                        color: $COLOR_RED;
+                    }
+                    text-align: left;
+                }
                 #mt5_remaining_transfers .empty {
                     color: $COLOR_RED;
                 }
@@ -359,6 +365,11 @@
                 }
                 .change-investor-button {
                     margin-bottom: 10px;
+                }
+                .change-investor-password {
+                    .password--field-wrapper {
+                        max-width: 95%;
+                    }
                 }
                 #existing_client_message {
                     .notice-msg {
@@ -492,6 +503,7 @@
             span {
                 padding: 10px 5px;
                 line-height: 18px;
+                width: 95%;
             }
         }
     }

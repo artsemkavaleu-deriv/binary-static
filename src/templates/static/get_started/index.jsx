@@ -68,8 +68,8 @@ const Index = () => (
                 id='get_started_tabs'
                 className='gr-padding-20 gr-parent tab-selector-wrapper'
                 items={[
-                    { id: 'binary',   text: it.L('Binary Options') },
-                    { id: 'lookback', text: it.L('Lookbacks') },
+                    { id: 'binary',   text: it.L('Binary Options'), dataShow: '-eucountry'  },
+                    { id: 'lookback', text: it.L('Lookbacks'), dataShow: '-eucountry'  },
                     { id: 'mt5',      text: it.L('MetaTrader 5') },
                     { id: 'get_started_tabs_selector', className: 'tab-selector' },
                 ]}
@@ -120,7 +120,7 @@ const Index = () => (
                     </TabContent>
                     <TabContent id='mt5'>
                         <h2>{it.L('MetaTrader 5')}</h2>
-                        <p>{it.L('Trade forex and contracts for difference (CFDs) on MetaTrader 5 – a multi-asset platform that offers outstanding trading possibilities and technical analysis tools.')}</p>
+                        <p>{it.L('Trade CFDs on forex, stocks, stock indices, commodities, Synthetic Indices, and cryptocurrencies on MetaTrader 5 – a multi-asset platform that offers outstanding trading possibilities and technical analysis tools.')}</p>
 
                         <SeparatorLine invisible className='gr-padding-30' />
 

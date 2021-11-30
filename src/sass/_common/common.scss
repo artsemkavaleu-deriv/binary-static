@@ -92,6 +92,10 @@ button.button-disabled {
     }
 }
 
+a.button-disabled {
+    pointer-events: none;
+}
+
 span.checked {
     background: url('../images/pages/authenticate/checked.svg') no-repeat;
     width: 16px;
@@ -207,6 +211,9 @@ label {
 .form-row {
     padding: 10px 0;
 
+    .required_field_label {
+        font-size: 13px;
+    }
     div:first-child label {
         display: block;
         text-align: right;
@@ -246,6 +253,14 @@ label {
 
 .full-width {
     width: 100%;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.width-50 {
+    width: 50%;
 }
 
 .errorfield {
@@ -307,6 +322,7 @@ label {
 
 #content-holder {
     flex: 1 1 auto;
+    margin-top: 30px;
 }
 
 .popup_page_overlay {
@@ -360,7 +376,7 @@ _:-ms-fullscreen, :root #content-holder {
     vertical-align: middle;
 }
 
-#email_consent + label {
+#mail_consent + label {
     display: flex;
     justify-content: center;
 
@@ -389,6 +405,24 @@ input[type=checkbox] {
 .logged_out_title_container {
     margin-top: 40px;
     margin-bottom: 40px;
+    text-align: center;
+}
+
+.signup-warning-message {
+    padding-bottom: 40px;
+}
+
+.padding-2rem {
+    padding: 2rem;
+}
+
+.padding-x-30 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.red {
+    color: $COLOR_RED;
 }
 
 button .barspinner.white {
@@ -460,6 +494,14 @@ button .barspinner.white {
 
 .clear {
     clear: both;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
 }
 
 .sidebar-container {
@@ -632,7 +674,6 @@ ul.bullet.gr-row > li {
 }
 
 #content {
-    margin-top: 40px;
     margin-bottom: 20px;
 
     div.select {

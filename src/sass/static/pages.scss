@@ -1,5 +1,10 @@
 // styling for static pages that are too short or simple to need their own styling page
 
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+}
+
 .payment-methods__reference {
     display: inline-block;
     height: 30px;
@@ -292,6 +297,19 @@
                 }
             }
         }
+    }
+}
+
+#frm_confirm {
+    display: flex;
+    align-items: flex-end;
+
+    .switch-cancel-btn {
+        width: unset !important;
+    }
+    .switch-ok-btn {
+        width: unset !important;
+        flex: 1;
     }
 }
 
@@ -818,6 +836,7 @@ body #not_authenticated_financial ul.checked > li {
     .currency_list > div {
         padding: 15px;
         background-image: url('../images/pages/set_currency/tick-normal.svg');
+        background-size: 16px;
         background-repeat: no-repeat;
         background-position: center bottom;
         line-height: 30px;
@@ -840,15 +859,33 @@ body #not_authenticated_financial ul.checked > li {
 
 .lightbox #set_currency {
     padding: 25px;
-    padding-bottom: 4px;
+    padding-bottom: 20px;
     width: 40em;
 
     #set_currency_text {
         margin-top: 0;
+        margin-bottom: 1.9rem;
+    }
+    #set_currency_text_secondary {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    #set_currency_text_note {
+        font-size: 10px;
+        margin-top: 0.4rem;
     }
     #fiat_currencies, #crypto_currencies {
         + div {
             max-width: 30em;
+        }
+        .note {
+            margin: 0.4rem auto 0;
+            font-size: 10px;
+        }
+    }
+    #crypto_currencies {
+        .text {
+            margin: 0 auto;
         }
     }
     .section-divider {
@@ -856,8 +893,21 @@ body #not_authenticated_financial ul.checked > li {
         margin-bottom: 0;
     }
     #submit_section {
-        margin-top: 20px;
-        margin-bottom: 16px;
+        border: 0;
+        display: flex;
+        max-width: 24em;
+        margin: 20px auto 16px;
+    }
+    .btn_cancel {
+        @media screen and (min-width: 768px) {
+            flex: 1;
+        }
+    }
+    #btn_ok {
+        flex: 1;
+    }
+    .button span {
+        display: block;
     }
     #deposit_btn {
         margin-bottom: 16px;
@@ -920,9 +970,7 @@ body #not_authenticated_financial ul.checked > li {
 }
 
 .currency_list {
-    @media screen and (min-width: 768px) {
-        justify-content: center;
-    }
+    justify-content: center;
 }
 
 .padding-h35 {
@@ -1198,6 +1246,176 @@ body #not_authenticated_financial ul.checked > li {
                 text-align: center;
             }
         }
+    }
+}
+
+.idv-main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .idv-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        min-height: 382px;
+
+        &__link {
+            font-weight: bold;
+            color: $COLOR_BLUE;
+        }
+        .btm-spacer {
+            margin-bottom: 24px;
+        }
+        &__main-icon {
+            width: 140px;
+            margin-bottom: 24px;
+        }
+        &__header {
+            font-size: 28px;
+            font-weight: 300;
+            line-height: 32px;
+            color: $COLOR_ORANGE;
+            margin-bottom: 16px;
+        }
+        &__input {
+            padding: 5px 16px;
+
+            @media (max-width: 768px) {
+                padding: 4px;
+                width: unset;
+            }
+        }
+        &__dropdown {
+            width: 100%;
+            padding: 5px 16px;
+            height: fit-content;
+            margin-top: 24px;
+            word-wrap: break-word;
+
+            @media (max-width: 768px) {
+                padding: 4px;
+            }
+        }
+        .long-text {
+            @media (max-width: 768px) {
+                padding: 4px;
+                font-size: 0.85rem;
+            }
+
+            .placeholder {
+                @media (max-width: 768px) {
+                    font-size: 0.85rem;
+                }
+            }
+        }
+        p {
+            margin: unset;
+        }
+        &__document-container {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 24px;
+
+            @media (max-width: 768px) {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+        &__left {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+
+            fieldset {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                border: none;
+                margin-bottom: 23px;
+
+                #document_example_format {
+                    width: 100%;
+                    font-size: 13px;
+                    margin-top: 8px;
+                    word-wrap: break-word;
+                    text-align: left;
+                }
+                .error-text {
+                    color: $COLOR_DARK_RED;
+                }
+            }
+        }
+        &__right {
+            max-width: calc(50% - 30px);
+            margin: 16px 0 0 30px;
+            @media (max-width: 768px) {
+                width: 100%;
+                max-width: unset;
+                padding: 0;
+                margin-left: 0;
+            }
+
+            .sample-image-text {
+                font-size: 16px;
+                font-weight: bold;
+                text-align: left;
+                margin-bottom: 4px;
+            }
+            .sample-image-container {
+                background-color: $COLOR_SHADY_WHITE;
+                padding: 14px 18px;
+                min-width: 245px;
+                max-width: calc(50% - 30px - 36px);
+                @media (max-width: 768px) {
+                    min-width: unset;
+                    max-width: unset;
+                }
+
+                img {
+                    min-width: 245px;
+                    max-width: calc(50% - 30px - 36px);
+                    @media (max-width: 768px) {
+                        min-width: unset;
+                        max-width: unset;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+        &__button-wrapper {
+            display: inline-flex;
+
+            .child-span {
+                padding: 10px 15px;
+
+                img {
+                    height: 18px;
+                    padding-right: 8px;
+                }
+            }
+        }
+    }
+    .country-selector {
+        max-width: unset;
+    }
+    .document-submit {
+        max-width: 540px;
+    }
+    .show-sample-image {
+        max-width: 50%;
+
+        @media (max-width: 768px) {
+            max-width: unset;
+        }
+    }
+    .idv-status {
+        margin-top: 32px;
     }
 }
 

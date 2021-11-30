@@ -7,9 +7,6 @@ msgstr ""
 msgid "2"
 msgstr ""
 
-msgid "5"
-msgstr ""
-
 msgid "20"
 msgstr ""
 
@@ -32,6 +29,9 @@ msgid " (Temporarily unavailable)"
 msgstr ""
 
 msgid " All calls are recorded for training and monitoring purposes."
+msgstr ""
+
+msgid " The Company reserves the right to change the requirements of transactions between the Agent’s account and clients."
 msgstr ""
 
 msgid " means %1."
@@ -313,7 +313,7 @@ msgstr ""
 msgid "%1 provides demo facilities to practise your trading strategy with virtual funds. Switch to your demo account using the drop-down box in the top-right corner of the screen."
 msgstr ""
 
-msgid "%1 provides institutional clients around the world with market quotes and trade execution across a wide range of assets, including major currency pairs, spot metals, CFD indices and popular cryptocurrencies."
+msgid "%1 provides institutional clients around the world with market quotes and trade execution across a wide range of assets, including major currency pairs, spot metals, stocks, stock indices, popular cryptocurrencies, and Synthetic indices."
 msgstr ""
 
 msgid "%1 provides the client with best execution by utilising a smart aggregation method when managing incoming orders. The smart aggregation method works by"
@@ -347,6 +347,9 @@ msgid "%1 supports %2 which is the leading charity in Britain committed to minim
 msgstr ""
 
 msgid "%1 takes home first prize in the Financial Trading Operator category at the prestigious 2015 EGR Operator Awards ceremony, hosted in London."
+msgstr ""
+
+msgid "%1 trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such an addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis."
 msgstr ""
 
 msgid "%1 tries to maintain a reasonable relation between the quoted prices of each underlying asset that a Binary Option refers to and the actual market prices of such an asset. %1 makes no warranty, expressed or implied, that the quoted prices represent prevailing market prices."
@@ -439,16 +442,10 @@ msgstr ""
 msgid "%1Founded%2 October 1999"
 msgstr ""
 
-msgid "%1In regard to customers of Deriv (MX) Ltd, online gambling debts are enforceable by law in the Isle of Man.%2"
-msgstr ""
-
 msgid "%1Manage your accounts%2"
 msgstr ""
 
 msgid "%1Maximise returns%2 by %3risking more%4 than you put in."
-msgstr ""
-
-msgid "%1No, change my fiat account's currency now%2"
 msgstr ""
 
 msgid "%1Not Sure?%1"
@@ -491,9 +488,6 @@ msgid "'Best Fixed-Odds Firm 2012' award by Global Banking and Finance Review"
 msgstr ""
 
 msgid "'Financial Trading Operator of the Year' award by eGaming Review"
-msgstr ""
-
-msgid "(1 standard forex lot is 100k units)"
 msgstr ""
 
 msgid "(1 standard lot is 100k units)"
@@ -583,6 +577,9 @@ msgstr ""
 msgid "1-2 years"
 msgstr ""
 
+msgid "1. Ensure to close all your positions"
+msgstr ""
+
 msgid "1. Proof of identity"
 msgstr ""
 
@@ -617,6 +614,9 @@ msgid "2-way pricing"
 msgstr ""
 
 msgid "2. Selfie with proof of ID"
+msgstr ""
+
+msgid "2. Withdraw your funds"
 msgstr ""
 
 msgid "2. Your desktop window stays open"
@@ -737,6 +737,9 @@ msgid "A bachelor's degree in commerce or any business-related field, IT-related
 msgstr ""
 
 msgid "A bachelor's degree in commerce or any business-related field, law, or risk management"
+msgstr ""
+
+msgid "A binary option is a contract in which one party undertakes to pay the other party a specified amount if the value of a given asset changes in a specific direction within a predetermined period. The major underlying asset class for binary options offered by the Company is Synthetic Indices."
 msgstr ""
 
 msgid "A binary option is a contract in which one party undertakes to pay the other party a specified amount if the value of a given asset changes in a specific direction within a predetermined period. The three major underlying asset classes for binary options offered by the Company are"
@@ -946,7 +949,7 @@ msgstr ""
 msgid "About the Company and these Terms"
 msgstr ""
 
-msgid "Abusively or fraudulently use, for any purpose, the Application Programme Interface (API) of %1"
+msgid "Abusively or fraudulently use, for any purpose, the Application Program Interface (API) of %1."
 msgstr ""
 
 msgid "Accept"
@@ -1135,7 +1138,13 @@ msgstr ""
 msgid "Add +/– to define a barrier offset. For example, +0.005 means a barrier that's 0.005 higher than the entry spot."
 msgstr ""
 
+msgid "Add a cryptocurrency account"
+msgstr ""
+
 msgid "Add a description and click %1Save%2 to complete the registration."
+msgstr ""
+
+msgid "Add a fiat currency account"
 msgstr ""
 
 msgid "Add account"
@@ -1145,6 +1154,12 @@ msgid "Add another word or two. Uncommon words are better."
 msgstr ""
 
 msgid "Add funds"
+msgstr ""
+
+msgid "Add new account"
+msgstr ""
+
+msgid "Add new crypto account"
 msgstr ""
 
 msgid "Additional business exposure:"
@@ -1498,7 +1513,7 @@ msgstr ""
 msgid "Any disputes, controversy, or claims that arise out of or relating to this Agreement against the Company will be referred to, and finally determined by, an arbitration firm selected by the Company. The language to be used in the arbitral proceedings will be English. Judgement upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. The Affiliate is also responsible for any and all costs related to such arbitration."
 msgstr ""
 
-msgid "Any event capable to have a material adverse effect on the Agent's ability to perform any of their duties and obligations in accordance with this agreement"
+msgid "Any event capable of having a material adverse effect on the Agent's ability to perform any of their duties and obligations in accordance with this agreement"
 msgstr ""
 
 msgid "Any failure on the Programmer's part to maintain the security of any security devices or procedures used in or in association with the %1 API"
@@ -1510,7 +1525,7 @@ msgstr ""
 msgid "Any information given on these pages, and/or emails or newsletters sent by the Company related thereto, is not intended as financial or investment advice and the Company will not accept any liability in this respect."
 msgstr ""
 
-msgid "Any information that the Agent provided or will provide to the Company in relation to the Agent's financial position, domicile, or other matters is accurate and not misleading."
+msgid "Any information that the Agent has provided or will provide to the Company in relation to the Agent's financial position, domicile, or other matters is accurate and not misleading."
 msgstr ""
 
 msgid "Any information which the client provides or have provided to the Company in respect of their financial position, domicile, or other matters is accurate and not misleading in any material respect."
@@ -1564,6 +1579,9 @@ msgstr ""
 msgid "Applicant's rights"
 msgstr ""
 
+msgid "Application to become a payment agent is reviewed only if the applicant has a Binary.com account with a balance equal to or more than the minimum amount required for the applicant’s country of residence."
+msgstr ""
+
 msgid "Applications"
 msgstr ""
 
@@ -1583,9 +1601,6 @@ msgid "Approaching even the smallest task with an open mind and learning new ski
 msgstr ""
 
 msgid "Appropriateness"
-msgstr ""
-
-msgid "Appropriateness Test: WARNING:"
 msgstr ""
 
 msgid "Appropriateness test"
@@ -1619,9 +1634,6 @@ msgid "Are you sure you want to create a fiat account in %1?"
 msgstr ""
 
 msgid "Are you sure you want to create your %1 account now?"
-msgstr ""
-
-msgid "Are you sure you want to deposit in %1?"
 msgstr ""
 
 msgid "Are you sure you want to unlink from %1?"
@@ -2077,7 +2089,7 @@ msgstr ""
 msgid "Before using the trading robots or Expert Advisors and forward trade, the client should test it on a demo account."
 msgstr ""
 
-msgid "Before you deactivate your account, you need to do the following:"
+msgid "Before you deactivate your account, you’ll need to:"
 msgstr ""
 
 msgid "Beginner"
@@ -2191,10 +2203,13 @@ msgstr ""
 msgid "Binary options trading frequency"
 msgstr ""
 
+msgid "Binary options trading is not available in your Multipliers account."
+msgstr ""
+
 msgid "Binary options trading is not available in your country."
 msgstr ""
 
-msgid "Binary options trading is not available in your financial account."
+msgid "Binary options trading is not available via your Multipliers account.<br/>Please switch back to your Options account."
 msgstr ""
 
 msgid "Binary options trading is relatively easy. You can purchase a contract in just three steps:"
@@ -2228,6 +2243,9 @@ msgid "Binary.com Graduate Program"
 msgstr ""
 
 msgid "Binary.com in Numbers"
+msgstr ""
+
+msgid "Binary.com is moving to Deriv on 30 November"
 msgstr ""
 
 msgid "Binary.com recommends 1.1.1.1"
@@ -2425,16 +2443,25 @@ msgstr ""
 msgid "CFDs"
 msgstr ""
 
+msgid "CFDs Account"
+msgstr ""
+
 msgid "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. %1 of retail investor accounts lose money when trading CFDs with Deriv Investments (Europe) Limited. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money."
+msgstr ""
+
+msgid "CFDs on Synthetic Indices"
 msgstr ""
 
 msgid "CFDs on commodities"
 msgstr ""
 
-msgid "CFDs on indices"
+msgid "CFDs on cryptocurrencies"
 msgstr ""
 
-msgid "CFH Clearing Limited"
+msgid "CFDs on stock indices"
+msgstr ""
+
+msgid "CFDs on stocks"
 msgstr ""
 
 msgid "CPA (EU only)"
@@ -2551,9 +2578,6 @@ msgstr ""
 msgid "Certain limits are imposed as to the acceptable levels for barrier/strike prices of contracts. Typically, the barrier/strike may not be too close nor too far from the current underlying market level."
 msgstr ""
 
-msgid "Champion Group Ltd: Vanuatu"
-msgstr ""
-
 msgid "Change API Endpoint"
 msgstr ""
 
@@ -2641,6 +2665,9 @@ msgstr ""
 msgid "Chief Executives, Senior Officials and Legislators"
 msgstr ""
 
+msgid "Choose a cryptocurrency account"
+msgstr ""
+
 msgid "Choose a duration from 10 seconds to 365 days."
 msgstr ""
 
@@ -2671,7 +2698,19 @@ msgstr ""
 msgid "Choose from three main trade types:"
 msgstr ""
 
+msgid "Choose one of your accounts"
+msgstr ""
+
+msgid "Choose one of your accounts or add a new account"
+msgstr ""
+
+msgid "Choose one of your accounts or add a new cryptocurrency account"
+msgstr ""
+
 msgid "Choose scopes:"
+msgstr ""
+
+msgid "Choose the document type"
 msgstr ""
 
 msgid "Choose the market, trade type, duration, barrier, and payout."
@@ -2693,6 +2732,9 @@ msgid "Choose timeframes from 10 seconds to 365 days."
 msgstr ""
 
 msgid "Choose your own strike."
+msgstr ""
+
+msgid "Choose your preferred cryptocurrency"
 msgstr ""
 
 msgid "Choose your preferred programme, complete the application form, and receive your affiliate link upon approval."
@@ -2719,13 +2761,13 @@ msgstr ""
 msgid "Click OK to proceed."
 msgstr ""
 
-msgid "Click here to open a Financial Account"
-msgstr ""
-
-msgid "Click here to open a Gaming account"
+msgid "Click here to open a Multipliers Account"
 msgstr ""
 
 msgid "Click here to open a Real Account"
+msgstr ""
+
+msgid "Click here to open an Options account"
 msgstr ""
 
 msgid "Click here to retry"
@@ -2791,9 +2833,6 @@ msgstr ""
 msgid "Clients in the European Union who wish to trade gambling products will have their accounts opened with Deriv (Europe) Limited."
 msgstr ""
 
-msgid "Clients in the Isle of Man and the UK who wish to trade gambling products will have their accounts opened with Deriv (MX) Ltd."
-msgstr ""
-
 msgid "Clients may trade on our platforms only when they are using their own money and are drawing on funds that have been acquired honestly. If you have any suspicion that clients are using money that has been acquired dishonestly, you must inform %1.  In such cases, we may decide to conduct checks on the client’s status and background. %2 management will decide what information needs to be reported to government officials and through what channels."
 msgstr ""
 
@@ -2809,10 +2848,7 @@ msgstr ""
 msgid "Clients need to satisfy at least two of the following criteria in order to receive Professional Client status:"
 msgstr ""
 
-msgid "Clients registered with Deriv (MX) Ltd can formally submit a complaint to their local Supervisory Authority."
-msgstr ""
-
-msgid "Clients registered with Deriv (MX) Ltd or Deriv (Europe) Limited can raise their unresolved disputes with the alternative dispute resolution entity IBAS by filling the adjudication form on the ADR entity's %1website%2. Alternatively, they can make use of the European Commission's Online Dispute Resolution (ODR) platform available %3here%4. Clients registered with Deriv (Europe) Limited can also refer their unresolved disputes to the Malta Gaming Authority via the %5Player Support Unit%6."
+msgid "Clients registered with Deriv (Europe) Limited can refer their complaints to the Malta Gaming Authority via the %1Player Support Unity%3. They can file their unresolved disputes with the European Commission’s %2Online Dispute Resolution (ODR)%3."
 msgstr ""
 
 msgid "Clients registered with Deriv Investments (Europe) Limited can raise their unresolved disputes with the Office of the Arbiter for Financial Services. Contact details and guidance on making a complaint with the Arbiter's Office can be found %1here%2."
@@ -2846,9 +2882,6 @@ msgid "Close all or any of the client's Open Positions at a closing level that i
 msgstr ""
 
 msgid "Close identity verification screen"
-msgstr ""
-
-msgid "Close open positions"
 msgstr ""
 
 msgid "Close your %1 account."
@@ -2990,9 +3023,6 @@ msgid "Company's obligations"
 msgstr ""
 
 msgid "Company's rights"
-msgstr ""
-
-msgid "Compare MetaTrader 5 accounts"
 msgstr ""
 
 msgid "Compensation under Investor Compensation Scheme"
@@ -3367,16 +3397,19 @@ msgstr ""
 msgid "Create Account"
 msgstr ""
 
-msgid "Create MT5 password"
-msgstr ""
-
 msgid "Create New Demo Account"
 msgstr ""
 
-msgid "Create a MT5 password. You can use this password for all your MT5 accounts."
+msgid "Create a CFDs account"
 msgstr ""
 
 msgid "Create a MetaTrader 5 account"
+msgstr ""
+
+msgid "Create a New Demo Account"
+msgstr ""
+
+msgid "Create a cryptocurrency account"
 msgstr ""
 
 msgid "Create a new Binary password."
@@ -3389,6 +3422,12 @@ msgid "Create account"
 msgstr ""
 
 msgid "Create an MT5 account now"
+msgstr ""
+
+msgid "Create an MT5 password for logging in to your CFDs account."
+msgstr ""
+
+msgid "Create an MT5 password. You can use this password for all your MT5 accounts."
 msgstr ""
 
 msgid "Create and maintain wireframes and mockups for new and existing products"
@@ -3412,7 +3451,7 @@ msgstr ""
 msgid "Create mathematical/statistical models for pricing, analyse fat tails to assess margin requirements, and manage the risk for exotic options, forex, and CFDs"
 msgstr ""
 
-msgid "Create new demo account"
+msgid "Create new Demo account"
 msgstr ""
 
 msgid "Create new token"
@@ -3470,9 +3509,6 @@ msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital c
 msgstr ""
 
 msgid "Cryptocurrencies*"
-msgstr ""
-
-msgid "Cryptocurrency"
 msgstr ""
 
 msgid "Cryptocurrency contract specifications"
@@ -3664,6 +3700,9 @@ msgstr ""
 msgid "Deactivate Account"
 msgstr ""
 
+msgid "Deactivate account"
+msgstr ""
+
 msgid "Deactivate account?"
 msgstr ""
 
@@ -3718,6 +3757,9 @@ msgstr ""
 msgid "Demo Accounts"
 msgstr ""
 
+msgid "Demo CFDs"
+msgstr ""
+
 msgid "Demo Financial"
 msgstr ""
 
@@ -3730,10 +3772,10 @@ msgstr ""
 msgid "Demo accounts do not have Payment Agent services."
 msgstr ""
 
-msgid "Depending on the jurisdiction to which a client's account has been attached in accordance with the account opening procedures of the website and as detailed in the About us section of the website and the type of products offered, the term \"the Company\" shall denote,"
+msgid "Depending on the jurisdiction to which a client's account has been attached in accordance with the account opening procedures of the website and as detailed in the About us section of the website and the type of products offered, the term \"the Company\" shall denote"
 msgstr ""
 
-msgid "Depending on the jurisdiction to which a client's account has been attached in accordance with the account opening procedures of the website, the terms 'the Company' and '%1' shall denote either"
+msgid "Depending on the jurisdiction to which a client's account has been attached in accordance with the account opening procedures of the website, the terms 'the Company' and '%1' shall denote"
 msgstr ""
 
 msgid "Depending on the level of risk that the Company is exposed to while acting as the client's counterparty, the Company acts largely in a principal capacity of the client's trades. As such, the execution venue will usually be %1. However, the Company may transmit the client's order to third-party liquidity providers, in which case the Company will determine the execution venue on the basis described above."
@@ -3757,13 +3799,25 @@ msgstr ""
 msgid "Deposit as little as 5 USD to start trading."
 msgstr ""
 
-msgid "Deposit into or withdraw from your real account"
+msgid "Deposit cryptocurrencies"
+msgstr ""
+
+msgid "Deposit in your local currency via an authorised, independent payment agent in your country."
 msgstr ""
 
 msgid "Deposit now"
 msgstr ""
 
 msgid "Deposit or withdraw below"
+msgstr ""
+
+msgid "Deposit via bank wire, credit card, and e-wallet"
+msgstr ""
+
+msgid "Deposit via bank wire, credit card, and e-wallet."
+msgstr ""
+
+msgid "Deposit via payment agents"
 msgstr ""
 
 msgid "Deposit: %1 blockchain confirmations"
@@ -3778,10 +3832,10 @@ msgstr ""
 msgid "Deposits and withdrawals for your MetaTrader 5 account always pass through your binary options account."
 msgstr ""
 
-msgid "Deposits and withdrawals have been disabled on your account. Please check your email for more details."
+msgid "Deposits and/or payments due are to be made in the currency chosen by the client from the ones specified by DIEL from time to time."
 msgstr ""
 
-msgid "Deposits and/or payments due are to be made in the currency chosen by the client from the ones specified by DIEL from time to time."
+msgid "Deposits are temporarily unavailable due to system maintenance. You can make your deposits when the maintenance is complete."
 msgstr ""
 
 msgid "Deriv"
@@ -3802,13 +3856,7 @@ msgstr ""
 msgid "Deriv (Europe) Limited"
 msgstr ""
 
-msgid "Deriv (Europe) Limited,"
-msgstr ""
-
-msgid "Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed and regulated (for gambling products only - %1's Synthetic Indices) by the Malta Gaming Authority in Malta (%2licence no. MGA/B2C/102/2000%4), by the Gambling Commission for clients in Great Britain under (%3account no. 39495%4), and by the Revenue Commissioners for clients in Ireland (licence no. 1010285)."
-msgstr ""
-
-msgid "Deriv (Europe) Limited, or"
+msgid "Deriv (Europe) Limited or"
 msgstr ""
 
 msgid "Deriv (FX) Ltd"
@@ -3824,18 +3872,6 @@ msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Must
 msgstr ""
 
 msgid "Deriv (FX) Ltd: Labuan, Territory of Malaysia"
-msgstr ""
-
-msgid "Deriv (MX) Ltd"
-msgstr ""
-
-msgid "Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man, is licensed and regulated in Great Britain by the Gambling Commission under %1account no. 39172%3 and by the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
-msgstr ""
-
-msgid "Deriv (MX) Ltd."
-msgstr ""
-
-msgid "Deriv (MX) Ltd: the Isle of Man"
 msgstr ""
 
 msgid "Deriv (SVG) LLC"
@@ -3895,16 +3931,16 @@ msgstr ""
 msgid "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed in Malta and regulated by the Malta Financial Services Authority under the Investments Services Act to provide investment services in the European Union (%1licence no. IS/70156%2). It is also authorised and subject to limited regulation by the Financial Conduct Authority in the UK. Details about the extent of our authorisation and regulation by the Financial Conduct Authority are available from us on request."
 msgstr ""
 
-msgid "Deriv Investments (Europe) Limited, or"
-msgstr ""
-
 msgid "Deriv Investments (Europe) Limited."
 msgstr ""
 
 msgid "Deriv Limited"
 msgstr ""
 
-msgid "Deriv Limited, with registered office at 47 Esplanade, St Helier, Jersey JE1 0BD, Channel Islands, is the holding company for the subsidiaries listed below."
+msgid "Deriv Limited — 13 Castle Street, St. Helier, JE2 3BT, Jersey — is the holding company for the above subsidiaries."
+msgstr ""
+
+msgid "Deriv Limited, with registered office at 13 Castle Street, St. Helier, JE2 3BT, Jersey, is the holding company for the subsidiaries listed below."
 msgstr ""
 
 msgid "Deriv.com launched"
@@ -4043,9 +4079,6 @@ msgid "Do you offer any tools to manage my clients' trades?"
 msgstr ""
 
 msgid "Do you run a website that promotes forex or binary options? Join our global network of affiliates and turn your online traffic into revenue."
-msgstr ""
-
-msgid "Do you want this to be a fiat account or crypto account? Please choose one:"
 msgstr ""
 
 msgid "Do you want to learn more about the markets and how to trade them? Check out the resources below."
@@ -4423,10 +4456,10 @@ msgstr ""
 msgid "Engage in misleading or deceptive conduct or illusory or deceptive advertising"
 msgstr ""
 
-msgid "Engage in misleading, illusory, or deceptive advertising or promises"
+msgid "Engage in misleading, illusory, or deceptive advertising or promises."
 msgstr ""
 
-msgid "Engage in misleading, illusory, or deceptive conduct"
+msgid "Engage in misleading, illusory, or deceptive conduct."
 msgstr ""
 
 msgid "Enhanced performance. Intuitively simple."
@@ -4468,7 +4501,10 @@ msgstr ""
 msgid "Enter the authentication code generated by the app below:"
 msgstr ""
 
-msgid "Enter your MT5 password to add a %1 MT5 %2 account."
+msgid "Enter your MT5 password to add a %1 %2 account."
+msgstr ""
+
+msgid "Enter your document number"
 msgstr ""
 
 msgid "Enter your email"
@@ -4643,6 +4679,9 @@ msgid "Exclude time cannot be less than 6 months."
 msgstr ""
 
 msgid "Excluded from the website until"
+msgstr ""
+
+msgid "Exclusive Markets Ltd"
 msgstr ""
 
 msgid "Exclusive binary trading technology."
@@ -4891,9 +4930,6 @@ msgstr ""
 msgid "FX-majors, FX-minors, FX-exotics, Cryptocurrencies"
 msgstr ""
 
-msgid "FXOpen"
-msgstr ""
-
 msgid "Face forward and make sure your eyes are clearly visible"
 msgstr ""
 
@@ -4918,7 +4954,7 @@ msgstr ""
 msgid "Fairly and accurately describe Binary's business and services in a transparent manner to the clients"
 msgstr ""
 
-msgid "Fairly and accurately describe the Agent's services to the clients"
+msgid "Fairly and accurately describe the Agent's services to the clients."
 msgstr ""
 
 msgid "Familiarity with Git"
@@ -4978,9 +5014,6 @@ msgstr ""
 msgid "Fiat"
 msgstr ""
 
-msgid "Fiat Currency"
-msgstr ""
-
 msgid "Fiat currencies"
 msgstr ""
 
@@ -5032,13 +5065,7 @@ msgstr ""
 msgid "Financial Markets Analyst"
 msgstr ""
 
-msgid "Financial Risk approval is required. Please contact %1customer support%2 for more information."
-msgstr ""
-
 msgid "Financial STP"
-msgstr ""
-
-msgid "Financial STP Account"
 msgstr ""
 
 msgid "Financial STP account"
@@ -5060,6 +5087,9 @@ msgid "Financial information"
 msgstr ""
 
 msgid "Find a trading platform that suits your experience and preferred strategy – whether you're a new or seasoned trader."
+msgstr ""
+
+msgid "Find out more"
 msgstr ""
 
 msgid "Find out more about the costs and details of each CFD asset we offer."
@@ -5098,9 +5128,6 @@ msgstr ""
 msgid "First-class client service."
 msgstr ""
 
-msgid "Fixed spreads"
-msgstr ""
-
 msgid "Fixing problems and providing feedback for improvement."
 msgstr ""
 
@@ -5125,7 +5152,7 @@ msgstr ""
 msgid "Follow up on the recommendations and timeline for corrective actions with department heads"
 msgstr ""
 
-msgid "Follow, comply, and implement with all business-related directions, policies, and procedures of the Company as amended or re-enacted or replaced from time to time"
+msgid "Follow, comply, and implement with all business-related directions, policies, and procedures of the Company as amended or re-enacted or replaced from time to time."
 msgstr ""
 
 msgid "Food Services"
@@ -5135,9 +5162,6 @@ msgid "For cryptocurrency assets, a deal for 1 lot of BTC/USD (with a BTC to USD
 msgstr ""
 
 msgid "For details on submitting a complaint to the Company's lead supervisory authority on data processing practices, the client is encouraged to check %1's %2Complaints and disputes%3 section."
-msgstr ""
-
-msgid "For e-wallets or local currencies not supported by %1."
 msgstr ""
 
 msgid "For example, if you buy a 100 USD contract and it's not going as planned, you just need to sell it to cut your losses at the current market price."
@@ -5176,7 +5200,7 @@ msgstr ""
 msgid "For forex, a deal for 1 lot of EUR/USD will pay out EUR 2.5 in commission based on the following formula:"
 msgstr ""
 
-msgid "For forex, a deal for 1 lot of EUR/USD will pay out EUR 5 in commission based on the following formula:"
+msgid "For forex, a deal for 1 lot will pay out USD 2 in commission based on the following formula (using EUR/USD as an example):"
 msgstr ""
 
 msgid "For forex, your commission is represented in the base currency (EUR in the above example)."
@@ -5243,9 +5267,6 @@ msgid "Forex trading involves buying one currency and selling another currency a
 msgstr ""
 
 msgid "Forex trading involves buying or selling these \"currency pairs\". When you buy a currency pair such as EUR/USD, it means that you are buying the EURO and selling the USD at the same time."
-msgstr ""
-
-msgid "Forgot password?"
 msgstr ""
 
 msgid "Founded in 1999, %1 is one of the oldest and most respected names in online binary trading."
@@ -5338,13 +5359,16 @@ msgstr ""
 msgid "GAMSTOP is a free service that enables you to self-exclude from all online gambling companies licensed in Great Britain. To find out more and to sign up, please visit %1."
 msgstr ""
 
-msgid "GBE Brokers"
+msgid "GBE Brokers Ltd"
 msgstr ""
 
 msgid "GBP Index – Measures the value of the British Pound against a basket of five global currencies (USD, EUR, AUD, JPY, CAD), each weighted by 20%"
 msgstr ""
 
 msgid "GBP/USD currency pair and its bid-ask price."
+msgstr ""
+
+msgid "GC Exchange Limited"
 msgstr ""
 
 msgid "GDPR"
@@ -5452,6 +5476,9 @@ msgstr ""
 msgid "Go"
 msgstr ""
 
+msgid "Go Back"
+msgstr ""
+
 msgid "Go back"
 msgstr ""
 
@@ -5462,6 +5489,9 @@ msgid "Go long and short"
 msgstr ""
 
 msgid "Go short = sell"
+msgstr ""
+
+msgid "Go to DTrader"
 msgstr ""
 
 msgid "Go to MT5 download page"
@@ -5932,6 +5962,9 @@ msgstr ""
 msgid "If the <strong>last tick</strong> is equal to the average of the ticks, you don't win the payout."
 msgstr ""
 
+msgid "If the Agent’s Binary.com account balance drops below the minimum amount required for the Agent’s country of residence, the Company will give the Agent a 30-day notice and then 30 days grace period to eliminate the deficit. At the end of these 60 days, if the Agent’s account balance does not meet or exceed the minimum required amount, the Company’s contract with the Agent shall be terminated."
+msgstr ""
+
 msgid "If the Company (in its sole discretion) is not satisfied that a client is complying with these terms, or if a client does not comply with a reasonable request for information made by the Company, the Company may cancel the client's account and withhold any funds accumulated therein."
 msgstr ""
 
@@ -6070,16 +6103,22 @@ msgstr ""
 msgid "If you find any vulnerabilities in our %1open-source code%2, feel free to submit a pull request on GitHub."
 msgstr ""
 
-msgid "If you have a Binary real account, go to %1Cashier%2 to withdraw your funds"
+msgid "If you have a Binary real account, go to %1Cashier%2 to withdraw your funds."
 msgstr ""
 
-msgid "If you have a Binary real account, go to %1Portfolio%2 to close any open positions."
+msgid "If you have a Binary real account, go to %1Portfolio%2 to close or sell any open positions."
 msgstr ""
 
-msgid "If you have a MT5 real account, go to %1MT5 dashboard%2 to withdraw your funds."
+msgid "If you have a DMT5 or Deriv X real account, go to your %1DMT5%2 or %3Deriv X%4 dashboard to withdraw your funds."
 msgstr ""
 
-msgid "If you have a MT5 real account, log into it to close any open positions."
+msgid "If you have a DMT5 or Deriv X real account, log in to close any open positions."
+msgstr ""
+
+msgid "If you have a DMT5 real account, go to your %1DMT5%2 dashboard to withdraw your funds."
+msgstr ""
+
+msgid "If you have a DMT5 real account, log in to close any open positions."
 msgstr ""
 
 msgid "If you have a payment reference (for example 122), you can enter it here."
@@ -6325,9 +6364,6 @@ msgstr ""
 msgid "In light of the EU General Data Protection Regulation 2016/679 and the Data Protection Act 2018, the applicant is entitled to the following rights with regards to the applicant's personal data:"
 msgstr ""
 
-msgid "In order for a UK resident to make use of the demo account, the client will first have to be age-verified. The client will also need to be fully verified before making use of the real money account. Verification can be done electronically or through submission of KYC documents."
-msgstr ""
-
 msgid "In order to access Telegram Bot, please %1generate an API Token%2 and enter it in the input box below."
 msgstr ""
 
@@ -6341,9 +6377,6 @@ msgid "In order to profit from trading rate, it is necessary to close the positi
 msgstr ""
 
 msgid "In providing IB services, the Introducing Broker shall"
-msgstr ""
-
-msgid "In providing our services to you, we are required to obtain information from you in order to assess whether a given product or service is appropriate for you (that is, whether you possess the experience and knowledge to understand the risks involved)."
 msgstr ""
 
 msgid "In providing the Agent's services, the Agent shall do the following:"
@@ -6376,9 +6409,6 @@ msgstr ""
 msgid "In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
 msgstr ""
 
-msgid "In the Isle of Man and the UK, Synthetic indices are offered by Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man; licensed and regulated in Great Britain by (1) the Gambling Commission under %1account no. 39172%3 and by (2) the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
-msgstr ""
-
 msgid "In the UK, our clients trade through Deriv (MX) Ltd and Deriv Investments (Europe) Limited. In the Isle of Man, they trade through Deriv (MX) Ltd. In the European Union (except UK), they trade through Deriv (Europe) Limited and Deriv Investments (Europe) Limited. In the rest of the world, they trade through Deriv (SVG) LLC, Deriv (V) Ltd, Deriv (BVI) Ltd and Deriv (FX) Ltd."
 msgstr ""
 
@@ -6409,7 +6439,7 @@ msgstr ""
 msgid "In the event that the Company is aware of an Affiliate who is in breach of any of the above provisions, the Company shall have the right, in addition to any other right or remedy available to it under this Agreement or applicable law, to immediately block the Affiliate's access to this programme. The Affiliate hereby irrevocably waives their rights to, and shall indemnify the Company and any member of the Deriv group of companies for, any claims or demands made against the Company or any member of the Deriv group of companies, their directors, officers, shareholders, or employees or against the %1 website if the Company revokes the Affiliate's access to the programme."
 msgstr ""
 
-msgid "In the rest of the EU, Synthetic Indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority (%1licence no. MGA/B2C/102/2000%4), by (2) the Gambling Commission for clients in Great Britain under %2account no. 39495%4, and by (3) the Revenue Commissioners for clients in Ireland (licence no. 1010285). View complete %3Regulatory Information%4."
+msgid "In the rest of the EU, Synthetic indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority (%1licence no. MGA/B2C/102/2000%3)  and (2) the Revenue Commissioners for clients in Ireland (licence no. 1010285). View complete %2Regulatory Information%3."
 msgstr ""
 
 msgid "In this Agreement, unless the context otherwise requires, the following definitions hold:"
@@ -6421,6 +6451,9 @@ msgstr ""
 msgid "In this case, you predict that the price will rise. This is also known as 'going long'."
 msgstr ""
 
+msgid "In which country was your document issued?"
+msgstr ""
+
 msgid "In-depth knowledge of accounting principles, best practices, standards, and regulations"
 msgstr ""
 
@@ -6430,7 +6463,7 @@ msgstr ""
 msgid "In/Out trades"
 msgstr ""
 
-msgid "Include a disclaimer and/or notice that any intellectual property rights, including any trademark or slogan whatsoever, belong to the Company, and any unauthorised use is strictly prohibited"
+msgid "Include a disclaimer and/or notice that any intellectual property rights — including any trademark or slogan whatsoever — belong to the Company, and any unauthorised use is strictly prohibited."
 msgstr ""
 
 msgid "Include a disclaimer or notice that the intellectual property rights of the Trademark solely belong to Binary and any use of it is strictly prohibited unless Binary has given such authorisation."
@@ -6589,9 +6622,6 @@ msgstr ""
 msgid "Investing or trading in contracts exposes the client to the performance of the underlying or reference instrument or asset to which the Binary contract refers, including foreign exchange, stock indices, and commodities, each of which have their own features and risks."
 msgstr ""
 
-msgid "Investment"
-msgstr ""
-
 msgid "Investment Income"
 msgstr ""
 
@@ -6677,6 +6707,9 @@ msgid "It is the responsibility of clients accessing this site to make sure that
 msgstr ""
 
 msgid "It is the responsibility of each client to read and understand this legal notice and the terms and conditions (\"Terms\") pursuant to which an acquisition of financial contracts via this site is governed."
+msgstr ""
+
+msgid "It looks like your identity document has expired. Please try again with a valid document."
 msgstr ""
 
 msgid "It may be disconnected. <fallback>Try using your phone instead</fallback>."
@@ -6806,9 +6839,6 @@ msgid "Kick back with beautiful beaches, islands, and mountains just a short fli
 msgstr ""
 
 msgid "Kindly send a scan of a valid proof of address to %1support@binary.com%2"
-msgstr ""
-
-msgid "Kindly send a scan of a valid proof of identity to %1support@binary.com%2"
 msgstr ""
 
 msgid "Know how much you will win or lose before you purchase the contract."
@@ -7414,9 +7444,6 @@ msgstr ""
 msgid "Manage security, intrusion detection, DDoS protection, and PCI compliance measures for each deployed server"
 msgstr ""
 
-msgid "Manage the funds in your cryptocurrency account."
-msgstr ""
-
 msgid "Manage your authorised applications."
 msgstr ""
 
@@ -7675,7 +7702,7 @@ msgstr ""
 msgid "Misrepresent Binary or the services that are offered by Binary"
 msgstr ""
 
-msgid "Misrepresent the services that the Agent provides to the clients"
+msgid "Misrepresent the services that the Agent provides to the clients."
 msgstr ""
 
 msgid "Mo"
@@ -7750,9 +7777,6 @@ msgstr ""
 msgid "Move away from direct light — no glare"
 msgstr ""
 
-msgid "Move funds in and out of your real account."
-msgstr ""
-
 msgid "Mr"
 msgstr ""
 
@@ -7793,6 +7817,9 @@ msgid "Multiplier Up"
 msgstr ""
 
 msgid "Multipliers"
+msgstr ""
+
+msgid "Multipliers Account"
 msgstr ""
 
 msgid "Must be a clear, colour photo"
@@ -7945,6 +7972,9 @@ msgstr ""
 msgid "New password"
 msgstr ""
 
+msgid "New proof of identity document needed"
+msgstr ""
+
 msgid "New to CFD trading? We explain a few basics that all CFD traders need to know before they start trading."
 msgstr ""
 
@@ -7958,6 +7988,9 @@ msgid "Next"
 msgstr ""
 
 msgid "Next Available Price"
+msgstr ""
+
+msgid "Next, we'll need your proof of address"
 msgstr ""
 
 msgid "No"
@@ -8078,6 +8111,9 @@ msgid "Note: For any enquiries regarding disabled or excluded accounts, please c
 msgstr ""
 
 msgid "Note: Payment Agent transfers are only available for accounts registered with Deriv (SVG) LLC."
+msgstr ""
+
+msgid "Note: Please switch to your %1 account to change currencies."
 msgstr ""
 
 msgid "Note: You are limited to one fiat currency account. The currency of your fiat account can be changed before you deposit into your fiat account for the first time or create an MT5 account. You may also open one account for each supported cryptocurrency."
@@ -8290,7 +8326,7 @@ msgstr ""
 msgid "Open a %1 account through DIEL's website %2"
 msgstr ""
 
-msgid "Open a Financial Account"
+msgid "Open a Multipliers Account"
 msgstr ""
 
 msgid "Open a Real Account"
@@ -8344,13 +8380,16 @@ msgstr ""
 msgid "Opens"
 msgstr ""
 
+msgid "Options"
+msgstr ""
+
+msgid "Options Account"
+msgstr ""
+
 msgid "Options that let you “look back” on the optimum high or low achieved by the market to determine the payout."
 msgstr ""
 
 msgid "Options that offer a fixed payout based on a simple yes/no proposition."
-msgstr ""
-
-msgid "Options trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such an addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis."
 msgstr ""
 
 msgid "Order"
@@ -8398,19 +8437,16 @@ msgstr ""
 msgid "Our Accounting &amp; Payments team manages our wide range of bank accounts and e-currency systems, as well as the huge volume of transactions that take place every day."
 msgstr ""
 
+msgid "Our CFDs account is suitable for both new and experienced traders."
+msgstr ""
+
 msgid "Our Company"
 msgstr ""
 
 msgid "Our MT5 servers are temporarily unavailable. We're working to restore them. Please try again in a few minutes."
 msgstr ""
 
-msgid "Our MetaTrader 5 Financial STP account provides you with tight spreads, higher ticket size and offers more products."
-msgstr ""
-
 msgid "Our MetaTrader 5 Financial account is suitable for both new and experienced traders."
-msgstr ""
-
-msgid "Our Synthetic account allows you to trade CFDs on Synthetic Indices - our proprietary synthetic assets that simulate market forces."
 msgstr ""
 
 msgid "Our active client base is expected to reach over 790,000 total clients this year."
@@ -8419,7 +8455,10 @@ msgstr ""
 msgid "Our business is founded on collaboration and we aim to build long-term, mutually beneficial relationships with our partners. However, we will never compromise our commitment to business integrity. In cases where our partners are unwilling or unable to abide by our principles, we reserve the right to withdraw from the business relationship."
 msgstr ""
 
-msgid "Our cashier is temporarily down due to system maintenance. You can access the cashier as soon as the maintenance is complete."
+msgid "Our cashier is temporarily down due to system maintenance. You can access the Cashier in a few minutes when the maintenance is complete."
+msgstr ""
+
+msgid "Our cashier is temporarily down due to system maintenance.You can access the Cashier in a few minutes when the maintenance is complete."
 msgstr ""
 
 msgid "Our commission structure is a simple 2-tiered plan."
@@ -8431,7 +8470,7 @@ msgstr ""
 msgid "Our company continues to thrive and obtains a license in the Isle of Man to better service our UK clients."
 msgstr ""
 
-msgid "Our cryptocurrency cashier is temporarily down due to system maintenance. You can access the cashier as soon as the maintenance is complete."
+msgid "Our cryptocurrency cashier is temporarily down due to system maintenance. You can access the Cashier in a few minutes when the maintenance is complete."
 msgstr ""
 
 msgid "Our customers clearly like us. In mid-2014, %1 has over 100 million historical transactions and over 130,000 new daily transactions."
@@ -8447,6 +8486,9 @@ msgid "Our metal pairs are typically traded in lots. One standard lot is equival
 msgstr ""
 
 msgid "Our office in Dubai is located at the world-class Jumeirah Lake Towers (JLT) free zone. JLT is home to universities, commercial and residential towers, parks, and over 500 retail outlets, giving you exceptional convenience and a quality of life that you won't find anywhere else."
+msgstr ""
+
+msgid "Our products and services may expose you to risks that can be substantial at times, including the risk of losing your entire investment. Please note that by clicking %1Continue%2, you’ll be accepting these risks."
 msgstr ""
 
 msgid "Our proprietary synthetic indices that simulate market forces"
@@ -8473,7 +8515,7 @@ msgstr ""
 msgid "Our website uses cookies to give you the best user experience. For more information, %1view our policy%2."
 msgstr ""
 
-msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission (%1view licence%2); Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
+msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission (%1view licence%2); Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
 msgstr ""
 
 msgid "Outstanding written and verbal communication skills and excellent command of English"
@@ -8704,7 +8746,7 @@ msgstr ""
 msgid "Perform tests to ensure database performance and security, as well as data integrity"
 msgstr ""
 
-msgid "Perform the Agent's services and other obligations hereunder at their own cost and risk"
+msgid "Perform the Agent's services and other obligations hereunder at their own cost and risk."
 msgstr ""
 
 msgid "Performance Tuning,"
@@ -8800,16 +8842,10 @@ msgstr ""
 msgid "Please %1authenticate%2 your account to continue trading."
 msgstr ""
 
-msgid "Please %1authenticate%2 your account."
-msgstr ""
-
 msgid "Please %1complete the financial assessment%2 to open an MT5 account."
 msgstr ""
 
 msgid "Please %1complete the trading experience section%2 in the financial assessment to open an MT5 account."
-msgstr ""
-
-msgid "Please %1complete your account profile%2 to lift your withdrawal and trading limits."
 msgstr ""
 
 msgid "Please %1deposit%2 before transferring to client."
@@ -8854,13 +8890,10 @@ msgstr ""
 msgid "Please complete the %1Real Account form%2 to verify your age as required by the %3UK Gambling%4 Commission (UKGC)."
 msgstr ""
 
-msgid "Please complete the %1financial assessment form%2 to lift your withdrawal and trading limits."
+msgid "Please complete the Appropriateness Test to access your cashier."
 msgstr ""
 
 msgid "Please complete the Real Account form to verify your age as required by the %1UK Gambling%2 Commission (UKGC)."
-msgstr ""
-
-msgid "Please complete your %1personal details%2 before you proceed."
 msgstr ""
 
 msgid "Please complete your personal details before you proceed."
@@ -8884,6 +8917,9 @@ msgstr ""
 msgid "Please do not share your bank account, credit card, or e-wallet with another client, as this may cause delays in your withdrawals."
 msgstr ""
 
+msgid "Please ensure all your personal details are the same as in your chosen document. If you wish to update your personal details, go to %1account settings%2."
+msgstr ""
+
 msgid "Please ensure that you have the Telegram app installed on your device."
 msgstr ""
 
@@ -8905,6 +8941,9 @@ msgstr ""
 msgid "Please enter no more than %1 characters for both fields."
 msgstr ""
 
+msgid "Please enter the correct format. Example:"
+msgstr ""
+
 msgid "Please enter your %1tax information%2 below to continue."
 msgstr ""
 
@@ -8918,6 +8957,9 @@ msgid "Please fill in the Login ID and Amount you wish to transfer to your Clien
 msgstr ""
 
 msgid "Please note that Asians, Digits, Reset Call/Reset Put, High Ticks/Low Ticks, and Only Ups/Only Downs are available exclusively with our Synthetic Indices."
+msgstr ""
+
+msgid "Please note that UK residents are not able to trade CFDs on cryptocurrencies or Synthetic Indices."
 msgstr ""
 
 msgid "Please note that one lot is equivalent to 100 units, based on our %1contract specifications%2."
@@ -8953,6 +8995,9 @@ msgstr ""
 msgid "Please remember at all times that trading binary options can be an exciting activity, but we have a moral duty to remind you of the risks you may run. Options trading can become a real addiction, as can any other activity pushed to its limits. We kindly ask you to engage in a careful self-analysis to check if you are at risk. To avoid the danger of such an addiction, it is important that you follow some basic principles and guidelines."
 msgstr ""
 
+msgid "Please remember that it is your responsibility to keep your answers accurate and up to date."
+msgstr ""
+
 msgid "Please resolve all pending issues to continue"
 msgstr ""
 
@@ -8974,6 +9019,9 @@ msgstr ""
 msgid "Please select the checkbox."
 msgstr ""
 
+msgid "Please select the country of document issuance"
+msgstr ""
+
 msgid "Please select the country where you are a tax resident. If you have any doubts, kindly consult your tax advisor."
 msgstr ""
 
@@ -8983,16 +9031,10 @@ msgstr ""
 msgid "Please select the date range of your statement:"
 msgstr ""
 
-msgid "Please set %1country of residence%2 before upgrading to a real-money account."
+msgid "Please select the document type and enter the document number."
 msgstr ""
 
-msgid "Please set the %1currency%2 of your account."
-msgstr ""
-
-msgid "Please set your %130-day turnover limit%2 to access the cashier."
-msgstr ""
-
-msgid "Please set your %130-day turnover limit%2 to remove deposit limits."
+msgid "Please set your %1account currency%2 to enable deposits and withdrawals."
 msgstr ""
 
 msgid "Please specify your preferred reality-check interval in minutes"
@@ -9002,9 +9044,6 @@ msgid "Please submit the above information to %1."
 msgstr ""
 
 msgid "Please submit your %1proof of address%2."
-msgstr ""
-
-msgid "Please submit your %1proof of identity and proof of address%2."
 msgstr ""
 
 msgid "Please submit your %1proof of identity%2."
@@ -9023,6 +9062,9 @@ msgid "Please try again"
 msgstr ""
 
 msgid "Please update your %1 to continue."
+msgstr ""
+
+msgid "Please upload your identity document."
 msgstr ""
 
 msgid "Please wait for confirmation. Our customer support team will get back to you regarding your account status via email within four hours."
@@ -9160,7 +9202,7 @@ msgstr ""
 msgid "Prepare and publish any content or place any advertisements that refer to Binary and its relationship with Binary without the prior written consent of Binary"
 msgstr ""
 
-msgid "Prepare and publish any material or place any advertisements that refer to the Company and the Agent's relationship with the Company without an authorisation being given by the Company"
+msgid "Prepare and publish any material or place any advertisements that refer to the Company and the Agent's relationship with the Company without an authorisation being given by the Company."
 msgstr ""
 
 msgid "Prepare daily, weekly, and monthly financial reports"
@@ -9358,7 +9400,7 @@ msgstr ""
 msgid "Provide technical leadership on cryptocurrencies and blockchain technology"
 msgstr ""
 
-msgid "Provide the Company with all and any information whatsoever that the Agent may become aware of that may be harmful, adverse, or detrimental to the Company and its reputation"
+msgid "Provide the Company with all and any information whatsoever that the Agent may become aware of that may be harmful, adverse, or detrimental to the Company and its reputation."
 msgstr ""
 
 msgid "Provide the customer support agent with the four-digit verification code below for confirmation."
@@ -9505,6 +9547,9 @@ msgstr ""
 msgid "Real Account Opening"
 msgstr ""
 
+msgid "Real CFDs"
+msgstr ""
+
 msgid "Real Estate"
 msgstr ""
 
@@ -9565,7 +9610,7 @@ msgstr ""
 msgid "Receive the approval of the Company to include any information in relation to Binary"
 msgstr ""
 
-msgid "Receive the approval of the Company to include any information in relation to the Company"
+msgid "Receive the approval of the Company to include any information in relation to the Company."
 msgstr ""
 
 msgid "Receive your earnings through your favourite payment method"
@@ -9721,7 +9766,7 @@ msgstr ""
 msgid "Replication,"
 msgstr ""
 
-msgid "Represent themselves as a representative of the Company or as an authorised person by the Company in their advertising activities"
+msgid "Represent themselves as a representative of the Company or as an authorised person by the Company in their advertising activities."
 msgstr ""
 
 msgid "Representations and warranties"
@@ -9985,6 +10030,9 @@ msgstr ""
 msgid "Sale of Property"
 msgstr ""
 
+msgid "Sample:"
+msgstr ""
+
 msgid "Saturday"
 msgstr ""
 
@@ -10198,7 +10246,7 @@ msgstr ""
 msgid "Server"
 msgstr ""
 
-msgid "Server maintenance starting 01:00 GMT every Sunday. This process may take up to 2 hours to complete. Service may be disrupted during this time."
+msgid "Server maintenance starts at 01:00 (GMT) every Sunday. This process may take up to 2 hours to complete. You may experience service disruption during this time."
 msgstr ""
 
 msgid "Server:"
@@ -10214,6 +10262,9 @@ msgid "Session duration:"
 msgstr ""
 
 msgid "Set Currency"
+msgstr ""
+
+msgid "Set MT5 password"
 msgstr ""
 
 msgid "Set barrier(s) to define your position and trigger the payout you'll receive."
@@ -10277,6 +10328,9 @@ msgid "Should any provisions or terms of this Agreement become invalid or unenfo
 msgstr ""
 
 msgid "Should be %1"
+msgstr ""
+
+msgid "Should be 1"
 msgstr ""
 
 msgid "Should be a valid number."
@@ -10402,13 +10456,13 @@ msgstr ""
 msgid "Sorry, an error occurred while processing your request."
 msgstr ""
 
-msgid "Sorry, deposits for this currency are currently disabled."
-msgstr ""
-
 msgid "Sorry, mobile version is not available yet."
 msgstr ""
 
 msgid "Sorry, no mobile phone bills"
+msgstr ""
+
+msgid "Sorry, options trading isn’t available in the United Kingdom and the Isle of Man"
 msgstr ""
 
 msgid "Sorry, this feature is not available in your jurisdiction."
@@ -10481,6 +10535,9 @@ msgid "Start time"
 msgstr ""
 
 msgid "Start trading"
+msgstr ""
+
+msgid "Start using Deriv with your Binary.com email and password."
 msgstr ""
 
 msgid "State Benefits"
@@ -10615,9 +10672,6 @@ msgstr ""
 msgid "Straight rows of keys are easy to guess"
 msgstr ""
 
-msgid "Strong  password contain at least 8 characters, combine uppercase and lowercase letters and numbers."
-msgstr ""
-
 msgid "Strong analytical capabilities that have been proven in a prior capacity or a keen interest to move into this area"
 msgstr ""
 
@@ -10637,6 +10691,9 @@ msgid "Strong oral and written communication skills in both the regional languag
 msgstr ""
 
 msgid "Strong passwords contain at least 8 characters, combine uppercase and lowercase letters, numbers, and symbols."
+msgstr ""
+
+msgid "Strong passwords contain at least 8 characters. Combine uppercase and lowercase letters, numbers, and symbols."
 msgstr ""
 
 msgid "Strong understanding of colours, typography, identity design, and branding"
@@ -10703,6 +10760,9 @@ msgid "Submit one of the documents below"
 msgstr ""
 
 msgid "Submit passport photo page"
+msgstr ""
+
+msgid "Submit proof of address"
 msgstr ""
 
 msgid "Submit residence permit (back)"
@@ -10804,13 +10864,19 @@ msgstr ""
 msgid "Swiss franc vs Japanese yen"
 msgstr ""
 
+msgid "Switch account"
+msgstr ""
+
+msgid "Switch account?"
+msgstr ""
+
+msgid "Switch to crypto account?"
+msgstr ""
+
 msgid "Symbol"
 msgstr ""
 
 msgid "Synthetic"
-msgstr ""
-
-msgid "Synthetic Account"
 msgstr ""
 
 msgid "Synthetic Indices"
@@ -11185,7 +11251,10 @@ msgstr ""
 msgid "The Agent has taken all measures required to obtain and maintain in full force and effect all authority and/or powers and/or consents and/or licences and/or authorities to enter into and perform this agreement."
 msgstr ""
 
-msgid "The Agent may provide the Agent's services to those clients of the Company who desire to deposit and/or withdraw money using the Agent. The Agent may provide the Agent's services to clients who intend to use e-wallet or e-payment methods other than those used by the Company (hereinafter referred to as the \"e-payments\") or local currencies other than those accepted by the Company (hereinafter referred to as the \"local currencies\") and local bank wire transfers (hereinafter referred to as the \"bank wire transfers\")."
+msgid "The Agent is prohibited from offering the Agent's services, under this agreement, to the clients who reside in restricted countries outlined in the Company's terms and conditions (as amended from time to time), which are published on the Company's website, %1www.binary.com%2."
+msgstr ""
+
+msgid "The Agent may only provide the Agent's services to those clients of the Company who reside within the same jurisdiction where the Agent operates and desire to deposit and/or withdraw money through the Agent. The Agent may provide the Agent's services to clients who intend to use e-wallet or e-payment methods other than those used by the Company (hereinafter referred to as the \"e-payments\") or local currencies other than those accepted by the Company (hereinafter referred to as the \"local currencies\") and local bank wire transfers (hereinafter referred to as the \"bank wire transfers\")."
 msgstr ""
 
 msgid "The Agent promises to the Company that the Agent shall comply with, and the Agent's services will be performed in accordance with, any applicable anti-corruption laws."
@@ -11195,9 +11264,6 @@ msgid "The Agent represents and warrants that the Agent is and will be in compli
 msgstr ""
 
 msgid "The Agent shall further undertake to perform all necessary due diligence on the Agent's clients, and the Company shall be entitled, at any time, to request the Agent to provide all information and documentation relating to their clients for the purposes of the Company's AML compliance. "
-msgstr ""
-
-msgid "The Agent shall not be authorised to offer the Agent's services, under this agreement, to the clients who reside in restricted countries outlined in the Company's terms and conditions (as amended from time to time), which are published on the Company's website, %1www.binary.com%2."
 msgstr ""
 
 msgid "The Agent shall not do the following:"
@@ -11221,7 +11287,7 @@ msgstr ""
 msgid "The Average"
 msgstr ""
 
-msgid "The Commencement Date of this agreement shall mean the date on which the Agent account is approved by the Company."
+msgid "The Commencement Date of this agreement shall mean the date on which the Agent's account is approved by the Company."
 msgstr ""
 
 msgid "The Company Prices are determined by reference to the price of the Underlying Instrument which is quoted on external exchanges or dealing facilities that %1 selects at the Company's discretion. The Company's IT infrastructure and price aggregator system facilitate the reception of quotes from shortlisted prime brokers, who act as liquidity providers for the Company and the delivery of the quotes, derived with reference against relevant benchmark and markets, to the client. The client acknowledges that the Company Prices may differ from the Bids and Asks made available by external exchanges or dealing facilities and the Company is not liable for any losses that the client might incur arising from such differences. This clause does not apply to Synthetic Indices."
@@ -11281,7 +11347,7 @@ msgstr ""
 msgid "The Company endeavours to open or close the transaction to which the client's Order relates at a price reasonably available to the Company, acting in accordance with the Company's duty of best execution. Best execution means that, when executing Orders, the Company must take all sufficient steps to obtain the best possible result for the client, taking into account the price, costs, speed, likelihood of execution and settlement, size, nature, or any other consideration relevant to the execution of the Order."
 msgstr ""
 
-msgid "The Company has a Stop Out policy which prevents the client from losing more than they have deposited. However, in the event that the client's Open Positions are not closed when the Margin Level for their MT5 Real Account reaches the Stop Out Level, the Company, at its sole discretion, may waive the client's negative balance by crediting their account if their Account Balance goes into a negative balance. The negative balance is determined by aggregating all the negative balances incurred over a 24-hour period across all accounts held by the client. The client acknowledges that, unless they are a retail customer of Deriv Investments (Europe) Limited, a client of Deriv (Europe) Limited, or a retail customer residing in Australia, the offer of the negative balance protection by the Company to the client is at the Company's sole discretion and the Company reserves the right to change the features and eligibility criteria of the negative balance protection at any time. The provisions of the negative balance protection do not apply in the following situations:"
+msgid "The Company has a Stop Out policy which prevents the client from losing more than they have deposited. If the client’s balance becomes negative due to Stop Out, an automatic compensation will revert the client’s balance to zero. The client acknowledges that, unless they are a retail customer of Deriv Investments (Europe) Limited or a retail customer residing in Australia, the offer of the negative balance protection by the Company to the client is at the Company's sole discretion and the Company reserves the right to change the features and eligibility criteria of the negative balance protection at any time. The provisions of the negative balance protection do not apply in the following situations:"
 msgstr ""
 
 msgid "The Company has a general duty to conduct its business with the client honestly, fairly, and professionally and to act in the client's best interests when opening and closing binary options trades with the client."
@@ -11311,7 +11377,7 @@ msgstr ""
 msgid "The Company holds customer funds in bank accounts separate from the operational accounts, and arrangements have been made to ensure that the assets in the customer accounts will be distributed to the customers in the event of insolvency."
 msgstr ""
 
-msgid "The Company holds customer funds in bank accounts separate from the operational accounts. Deriv (MX) Ltd & Deriv (Europe) Limited have arrangements in place so that in the event of insolvency they are able to meet their obligations to clients. These arrangements are in the form of a loan agreement between each respective company and the parent company, Deriv Limited, this loan will always at minimum cover the client liabilities. This meets the Gambling Commission's requirements for the segregation of customer funds at the level of medium protection."
+msgid "The Company holds customer funds in bank accounts separate from the operational accounts. Deriv (Europe) Limited has arrangements in place so that in the event of insolvency, it is able to meet its obligations to clients. These arrangements are in the form of a loan agreement between Deriv (Europe) Limited and the parent company, Deriv Limited. This loan will always at minimum cover the client liabilities. This meets the Gambling Commission's requirements for the segregation of customer funds at the level of medium protection."
 msgstr ""
 
 msgid "The Company is an independent legal entity and is not affiliated with the MT5 trading platform. MT5 is not owned, controlled, or operated by the Company. Therefore, the Company does not provide any warranties related to any MT5 product or service and has not reviewed or verified any performance results that may be presented and/or described on this website in relation to MT5."
@@ -11338,7 +11404,10 @@ msgstr ""
 msgid "The Company is required under data protection legislation to notify the applicant of the information contained in this privacy notice. As such, it is important that the applicant read this notice, together with any other privacy notice that the Company may provide for the applicant on specific occasions when the Company is collecting or processing personal data about the applicant, so that the applicant is aware of how and why the Company is using such information."
 msgstr ""
 
-msgid "The Company is the sole owner of all rights, titles, or interests whatsoever in and to all %1 electronic systems, including but not limited to any and all software, e-mail, and email management software, along with any modifications."
+msgid "The Company is the sole owner of all rights, titles, or interests whatsoever in and to all %1 electronic systems, including but not limited to any and all software, email, and email management software, along with any modifications."
+msgstr ""
+
+msgid "The Company likewise reserves the right to cancel any request for a deposit, withdrawal, or refund of the client’s funds."
 msgstr ""
 
 msgid "The Company mainly provides contracts for difference (CFDs) via MT5 platform."
@@ -11441,6 +11510,12 @@ msgid "The Company recognises the importance of protecting the client's personal
 msgstr ""
 
 msgid "The Company reserves the right in its sole discretion to refuse and/or cancel services and charge deposit and/or withdrawal fees to anyone for any reasons including, but not limited to the following:"
+msgstr ""
+
+msgid "The Company reserves the right to accept or reject the Agent's application. Where the Agent's application is accepted, the Company shall include all relevant information, including but not limited to name, address, website URL (if available), email address, telephone number, commission rates, and payment methods used by the Agent, in the payment agent list which is disclosed on the Company's website, %1www.binary.com%2."
+msgstr ""
+
+msgid "The Company reserves the right to block or withhold the funds in the client’s account and/or suspend or close the client’s account if it is known or there is reason to believe that one or more of the following cases are true:"
 msgstr ""
 
 msgid "The Company reserves the right to cancel/reverse transactions or amend the contractual terms (including, but not limited to, entry and exit spot) in the case that any contracts are acquired or sold at prices that do not reflect fair market prices or that are acquired or sold at an abnormally low level of risk due to an undetected programming error, bug, or glitch in the Company website software, market data feed or contract pricing latency, data feed error, stray quotes, incorrect pricing parameters, manifest mis-calculation of prices, or other obvious errors (\"Manifest Errors\"). Clients have a duty to report to the Company any such problems, errors, or suspected system inadequacies that they may experience and may not abuse, or arbitrage based on, such system problems or errors for profit. The Company will endeavour to resolve any such difficulties in the shortest time possible. Any amendments to the contractual terms (including, but not limited to, entry and exit spot) of Manifestly Erroneous contracts shall be reasonable and fair. Monies exchanged between the client and the Company in connection with Manifestly Erroneous contracts shall be returned to the recipient according to the amendments made to the contractual terms (including, but not limited to, entry and exit spot)."
@@ -11612,9 +11687,6 @@ msgid "The Company's services are provided on an execution-only basis. The Compa
 msgstr ""
 
 msgid "The Company's website contains links to other websites and may contain banner or icon advertisements related to third-party websites. These websites and their advertisements may submit cookies to the client's web browser, which is beyond the Company's control. The Company is not responsible for the privacy practices or the content of such websites. The Company encourages the client to read the privacy policies of these websites because their practices may differ from the Company's."
-msgstr ""
-
-msgid "The Company, exercising its absolute discretion, may accept or reject the Agent's application. Where the Agent's application is accepted, the Company shall include all relevant information, including but not limited to name, address, website URL (if available), email address, telephone number, commission rates, and payment methods used by the Agent, in the payment agent list which is disclosed on the Company's website, %1www.binary.com%2."
 msgstr ""
 
 msgid "The Country Manager is expected to acquire, service, manage, and expand our network of active affiliates in the countries where Deriv Group targets to be represented. You will also contribute your energy, skills, and knowledge of the local business culture to increase our rapid growth rate worldwide."
@@ -11854,7 +11926,7 @@ msgstr ""
 msgid "The applicant's qualifications, skills, education, experience, and employment history"
 msgstr ""
 
-msgid "The application shall be reviewed and assessed by the Company's compliance and marketing departments. It is noted that, following and implementing the anti-money laundering policy and conducting due diligence in accordance with the law and regulations, the Company's compliance department shall request and collect all required information and documentation as per Section H."
+msgid "The application shall be reviewed and assessed by the Company's Compliance and Marketing departments. It is noted that, following and implementing the anti-money laundering policy and conducting due diligence in accordance with the law and regulations, the Company's Compliance department shall request and collect all required information and documentation as per Section H."
 msgstr ""
 
 msgid "The ask price of the currency pair indicates how much of the quote currency is required to buy one unit of base currency. This is more commonly known as the exchange rate."
@@ -12215,6 +12287,9 @@ msgid "The great outdoors"
 msgstr ""
 
 msgid "The high-risk and speculative nature of forex and CFDs"
+msgstr ""
+
+msgid "The identification documents you submitted have expired. Please submit valid identity documents to unlock Cashier."
 msgstr ""
 
 msgid "The information outlined in Paragraph 1 of this section shall be submitted to %1partners@binary.com%2."
@@ -12679,9 +12754,6 @@ msgstr ""
 msgid "This feature is available to demo accounts only."
 msgstr ""
 
-msgid "This feature is not relevant to demo accounts."
-msgstr ""
-
 msgid "This feature is only relevant to payment agent accounts."
 msgstr ""
 
@@ -12778,7 +12850,7 @@ msgstr ""
 msgid "This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18."
 msgstr ""
 
-msgid "This will change the password to all of your MT5 accounts."
+msgid "This will change the password to all of your %1 accounts."
 msgstr ""
 
 msgid "Thorough knowledge of bash scripting, and experience with the Perl scripting language"
@@ -12886,6 +12958,12 @@ msgstr ""
 msgid "To create a MetaTrader 5 account:"
 msgstr ""
 
+msgid "To deposit cryptocurrency, switch your account."
+msgstr ""
+
+msgid "To deposit money, please switch to your %1 account."
+msgstr ""
+
 msgid "To disable two-factor authentication, please enter the code generated by the app below:"
 msgstr ""
 
@@ -12919,6 +12997,9 @@ msgstr ""
 msgid "To many attempts. Please try again in a few minutes"
 msgstr ""
 
+msgid "To meet the requirement in the previous clause, the applicant may deposit the required amount using any payment method, including another payment agent’s services, with the exception of DP2P and credit or debit cards."
+msgstr ""
+
 msgid "To open a bank account, we will need to verify your identity."
 msgstr ""
 
@@ -12943,10 +13024,19 @@ msgstr ""
 msgid "To smoothly verify you, we need a better photo"
 msgstr ""
 
+msgid "To transfer funds to your MT5 account, enter an amount of %1 or more"
+msgstr ""
+
 msgid "To which it, at the time of execution of this Agreement was, or subsequently has become, in the public domain through no fault of the parties"
 msgstr ""
 
-msgid "To withdraw from MetaTrader 5 Financial Account please %1Authenticate%2 your Binary account."
+msgid "To withdraw cryptocurrency, switch your account."
+msgstr ""
+
+msgid "To withdraw from MetaTrader 5 %1 please %2Authenticate%3 your Binary account."
+msgstr ""
+
+msgid "To withdraw money, please switch to your %1 account."
 msgstr ""
 
 msgid "Today"
@@ -12988,7 +13078,7 @@ msgstr ""
 msgid "Top-up successful"
 msgstr ""
 
-msgid "TopFX"
+msgid "TopFX Ltd"
 msgstr ""
 
 msgid "Total"
@@ -13054,6 +13144,9 @@ msgstr ""
 msgid "Trade Bitcoin, Ethereum, and Litecoin pairs without owning them. Our cryptocurrency pairs quote a cryptocurrency such as Bitcoin against a fiat currency, such as the US dollar."
 msgstr ""
 
+msgid "Trade CFDs on forex, stocks, stock indices, commodities, Synthetic Indices, and cryptocurrencies on MetaTrader 5 – a multi-asset platform that offers outstanding trading possibilities and technical analysis tools."
+msgstr ""
+
 msgid "Trade a larger position than your exisiting capital."
 msgstr ""
 
@@ -13087,9 +13180,6 @@ msgstr ""
 msgid "Trade forex and CFDs with a powerful platform recognised as the global standard."
 msgstr ""
 
-msgid "Trade forex and contracts for difference (CFDs) on MetaTrader 5 – a multi-asset platform that offers outstanding trading possibilities and technical analysis tools."
-msgstr ""
-
 msgid "Trade in the world's financial markets"
 msgstr ""
 
@@ -13103,6 +13193,9 @@ msgid "Trade metals on competitive fixed and variable spreads."
 msgstr ""
 
 msgid "Trade now"
+msgstr ""
+
+msgid "Trade on Deriv"
 msgstr ""
 
 msgid "Trade on underlying markets that include forex, stock indices, commodities, and more."
@@ -13144,7 +13237,7 @@ msgstr ""
 msgid "Trade with leverage"
 msgstr ""
 
-msgid "Trade with real funds and access to competitive trading conditions."
+msgid "Trade with real funds and get access to competitive trading conditions."
 msgstr ""
 
 msgid "Trade with the industry pioneer and holder of a patented pricing technology."
@@ -13177,16 +13270,7 @@ msgstr ""
 msgid "Trading and Withdrawal Limits"
 msgstr ""
 
-msgid "Trading and deposits have been disabled on your account. Kindly allow us some time to review the account."
-msgstr ""
-
-msgid "Trading and withdrawals have been disabled on your account. Kindly %1contact customer support%2 for assistance."
-msgstr ""
-
 msgid "Trading binary options and CFDs can involve substantial risks. Do not trade with money you cannot afford to lose, and never trade with borrowed money. Learn about %1Responsible Trading%2."
-msgstr ""
-
-msgid "Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset."
 msgstr ""
 
 msgid "Trading contracts for difference (CFDs) on Synthetic Indices may not be suitable for everyone. Please ensure that you fully understand the risks involved, including the possibility of losing all the funds in your MT5 account. Gambling can be addictive – please play responsibly."
@@ -13220,6 +13304,9 @@ msgid "Trading limits"
 msgstr ""
 
 msgid "Trading on %1 can become addictive. If you feel the need to exclude yourself from the website, please use the %2self-exclusion facilities%3."
+msgstr ""
+
+msgid "Trading options may not be suitable for everyone, so please ensure that you fully understand the risks involved."
 msgstr ""
 
 msgid "Trading platforms"
@@ -13456,6 +13543,12 @@ msgstr ""
 msgid "USD 10"
 msgstr ""
 
+msgid "USD 2"
+msgstr ""
+
+msgid "USD 4"
+msgstr ""
+
 msgid "USD Coin"
 msgstr ""
 
@@ -13514,6 +13607,15 @@ msgid "Understood"
 msgstr ""
 
 msgid "Unemployed"
+msgstr ""
+
+msgid "Unfortunately, this service isn’t available in your country. If you’d like to trade multipliers, try DTrader on Deriv."
+msgstr ""
+
+msgid "Unfortunately, you can only make deposits. Please contact us via live chat to enable withdrawals."
+msgstr ""
+
+msgid "Unfortunately, you can only make withdrawals. Please contact us via live chat."
 msgstr ""
 
 msgid "University degree in Marketing, Mathematics, IT/Programming or any related field"
@@ -13594,6 +13696,9 @@ msgstr ""
 msgid "Upload front of license from your computer"
 msgstr ""
 
+msgid "Upload identity document"
+msgstr ""
+
 msgid "Upload passport photo page"
 msgstr ""
 
@@ -13624,6 +13729,9 @@ msgstr ""
 msgid "Usage limit"
 msgstr ""
 
+msgid "Use MT5 password to sign in to any of your %1 accounts when using MT5 apps on your mobile or other devices."
+msgstr ""
+
 msgid "Use a few words, avoid common phrases"
 msgstr ""
 
@@ -13651,7 +13759,7 @@ msgstr ""
 msgid "Use the %1 API for any purpose that violates any law or regulation or any right of any person, including but not limited to intellectual property rights, rights of privacy, or rights of personality, or is in any manner inconsistent with these Terms or privacy policy"
 msgstr ""
 
-msgid "Use the Company's name or trademark in the Agent's advertising activities without a written authorisation to be given by the Company"
+msgid "Use the Company's name or trademark in the Agent's advertising activities without a written authorisation to be given by the Company."
 msgstr ""
 
 msgid "Use the Marketing Materials provided by Binary solely for the purpose of providing IB services and in accordance with Binary's instructions"
@@ -13666,16 +13774,13 @@ msgstr ""
 msgid "Use the web platform from any Windows, MacOS, or Linux operating system – no download or installation required."
 msgstr ""
 
-msgid "Use their best endeavours and diligence to transfer funds deposited to %1 Agent Account to its respective %1 Client account"
+msgid "Use their best endeavours and diligence to transfer funds deposited to %1 Agent Account to its respective %1 Client Account."
 msgstr ""
 
 msgid "Use their best endeavours to attract potential clients for Binary"
 msgstr ""
 
-msgid "Use this password to grant viewing access to another user. While they may view your trading account, they will not be able to trade or take any other actions. Click Create or reset password, if this is your first investor password or if you've forgotten your password."
-msgstr ""
-
-msgid "Use this password to log in to your MT5 accounts on the desktop, web, and mobile apps."
+msgid "Use this password to grant viewing access to another user. While they may view your trading account, they will not be able to trade or take any other actions. If this is the first time you try to create password, or you have forgotten your password, please reset it."
 msgstr ""
 
 msgid "Use to the utmost benefit any possible additional features that some payment processors offer"
@@ -13720,7 +13825,13 @@ msgstr ""
 msgid "Verification complete"
 msgstr ""
 
+msgid "Verification of document number failed"
+msgstr ""
+
 msgid "Verification required"
+msgstr ""
+
+msgid "Verify"
 msgstr ""
 
 msgid "Verify Identity"
@@ -13735,7 +13846,10 @@ msgstr ""
 msgid "Verify identity"
 msgstr ""
 
-msgid "Version 49. Last modified 23-11-2020."
+msgid "Verify your identity"
+msgstr ""
+
+msgid "Version 52. Last modified 26-11-2021."
 msgstr ""
 
 msgid "Video Room Facility"
@@ -13834,6 +13948,9 @@ msgstr ""
 msgid "Vs 407 zrnaf nalguvat fcrpvny gb lbh lbh znl pbcl lbhe nccyvpngvba gb wl+ebg13@ovanel.pbz sbe snfg-genpx pbafvqrengvba."
 msgstr ""
 
+msgid "WARNING"
+msgstr ""
+
 msgid "Waiting for contract settlement."
 msgstr ""
 
@@ -13864,13 +13981,16 @@ msgstr ""
 msgid "We accept"
 msgstr ""
 
+msgid "We accept the following cryptocurrencies:"
+msgstr ""
+
 msgid "We always put our customers first and dedicate ourselves to building products and services that give them the best trading experience possible."
 msgstr ""
 
 msgid "We are PayOps, part of the Compliance department. Our team emphasizes business development by implementing the payment strategy for the Deriv group of companies in collaboration with the Marketing team."
 msgstr ""
 
-msgid "We are licensed and regulated in the British Isles and in Malta since 2015."
+msgid "We are licensed and regulated in Malta since 2015."
 msgstr ""
 
 msgid "We are registered with the Financial Commission, an international independent organisation dedicated to resolving disputes within the financial services industry (%1view membership%2)."
@@ -13972,6 +14092,9 @@ msgstr ""
 msgid "We were unable to verify your document automatically. We will try to verify your document manually. Please check back in 1-3 days."
 msgstr ""
 
+msgid "We were unable to verify your identity based on the details you entered."
+msgstr ""
+
 msgid "We will continue to close open positions until your margin level becomes higher than the stop out level."
 msgstr ""
 
@@ -13988,6 +14111,12 @@ msgid "We'd love to hear what you think."
 msgstr ""
 
 msgid "We'll compare it with your document"
+msgstr ""
+
+msgid "We'll process your details within a few minutes and notify its status via email."
+msgstr ""
+
+msgid "We'll process your details within a few minutes and notify its status via email. Next, we'll need your proof of address"
 msgstr ""
 
 msgid "We're almost there"
@@ -14017,7 +14146,13 @@ msgstr ""
 msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across 10 offices in Malta, Dubai, Malaysia, Paraguay, Cyprus, Rwanda, and Belarus. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
 msgstr ""
 
+msgid "We've received your document number"
+msgstr ""
+
 msgid "We've sent a secure link to %{number}"
+msgstr ""
+
+msgid "We've successfully verified your document number"
 msgstr ""
 
 msgid "Web and software developer"
@@ -14057,9 +14192,6 @@ msgid "Well-honed organisational, administrative, and accounting skills"
 msgstr ""
 
 msgid "We’ll update your limits. Click %1Agree and accept%2 to acknowledge that you are fully responsible for your actions, and we are not liable for any addiction or loss."
-msgstr ""
-
-msgid "We’re updating our cashier system and it’ll be back online soon. Please see our %1status page%2 for updates."
 msgstr ""
 
 msgid "We’ve sent you an email"
@@ -14167,7 +14299,7 @@ msgstr ""
 msgid "When the client opens any transactions in relation to Prohibited Trades"
 msgstr ""
 
-msgid "When the client requests a withdrawal from %1 Client Account, such request shall be automatically proceeded, and, as a result, the requested sum shall be transferred from the %1 Client Account to the %1 Agent Account. However, it is noted that when the client reaches the client's withdrawal limits, a withdrawal request shall not be automatically proceeded before the required authentication process is conducted."
+msgid "When the client requests a withdrawal from %1 Client Account, such request shall automatically proceed, and, as a result, the requested sum shall be transferred from the %1 Client Account to the %1 Agent Account. However, it is noted that when the client reaches the client's withdrawal limit, a withdrawal request shall not automatically proceed before the required authentication process is conducted."
 msgstr ""
 
 msgid "When the client transfers their money to DIEL for trading purposes, the client's funds are deposited in their %1 account. If the client chooses to trade FX and CFDs, the client shall transfer funds from their %1 account to their MT5 Real Account. Such a transfer shall not be regarded as a transfer from two different accounts but as a transfer of funds from the client's centralised %1 account to the MT5 Real Account. No fund transfers shall be made to any other account in the name of any third party."
@@ -14266,7 +14398,7 @@ msgstr ""
 msgid "Where the Agent acts in breach of any warranty, representation, or promise made under this agreement, and any information provided to the Company in connection with this agreement is, or becomes, untrue or misleading"
 msgstr ""
 
-msgid "Where the Agent becomes incapable to pay their debts as they fall due, or is bankrupt or insolvent, as defined under any and all applicable bankruptcy or insolvency law where the Agent is an individual"
+msgid "Where the Agent becomes incapable of paying their debts as they fall due, or is bankrupt or insolvent, as defined under any and all applicable bankruptcy or insolvency law where the Agent is an individual"
 msgstr ""
 
 msgid "Where the Agent ceases to be competent, capable, adequate, or qualified to effectively perform all of the Agent's duties and obligations that are undertaken and agreed to under this agreement, for any reason, including but not limited to lack of knowledge, expertise, experience, skills, and time, the Agent shall notify the Company immediately and without any delay."
@@ -14284,7 +14416,7 @@ msgstr ""
 msgid "Where the Agent omits, fails, or refuses in any manner to provide the Company with evidence of the Agent's identity or any other evidence as required by the law in relation to anti-money laundering within a reasonable time, the Company reserves the right to cease to deal with the Agent."
 msgstr ""
 
-msgid "Where the Agent owns or operates website/s, the Agent shall do the following:"
+msgid "Where the Agent owns or operates website(s), the Agent shall do the following:"
 msgstr ""
 
 msgid "Where the Company ascertains any mistakes or flaws related to deposits or withdrawals from or to %1 Agent Account or %1 Client Account, the Company shall, within a reasonable time, take all corrective measures to rectify such mistakes or flaws."
@@ -14434,9 +14566,6 @@ msgstr ""
 msgid "Withdraw funds from your MT5 account"
 msgstr ""
 
-msgid "Withdraw your funds"
-msgstr ""
-
 msgid "Withdrawal"
 msgstr ""
 
@@ -14464,7 +14593,7 @@ msgstr ""
 msgid "Withdrawal: Not applicable"
 msgstr ""
 
-msgid "Withdrawals have been disabled on your account. Please check your email for more details."
+msgid "Withdrawals are temporarily unavailable due to system maintenance. You can make your withdrawals when the maintenance is complete."
 msgstr ""
 
 msgid "Withdrawals have been disabled on your account. Please wait until your uploaded documents are verified."
@@ -14527,13 +14656,10 @@ msgstr ""
 msgid "XRP/USD"
 msgstr ""
 
-msgid "XTB International Limited (XTB)"
+msgid "XTB International Limited"
 msgstr ""
 
 msgid "Yes"
-msgstr ""
-
-msgid "Yes I'm sure"
 msgstr ""
 
 msgid "Yes, I'm sure"
@@ -14567,6 +14693,9 @@ msgid "You are responsible for mitigating the risks and abuse that we face from 
 msgstr ""
 
 msgid "You are selling the base currency and buying the quote currency."
+msgstr ""
+
+msgid "You are using a demo account. Please switch to a real account or create one to access Cashier."
 msgstr ""
 
 msgid "You can %1set a new currency%2 before you deposit for the first %3."
@@ -14611,10 +14740,16 @@ msgstr ""
 msgid "You can only subscribe to one signal provider with one %1 account at any given time. You can use your signal on up to 3 computers."
 msgstr ""
 
+msgid "You can open an account for each cryptocurrency."
+msgstr ""
+
 msgid "You can sell your contract before expiry to keep any profit you may have made or to minimise your loss."
 msgstr ""
 
 msgid "You can top up your demo account with an additional %1 if your balance is %2 or less."
+msgstr ""
+
+msgid "You can update personal details at any time in your account settings."
 msgstr ""
 
 msgid "You can use an authorized payment agent to process deposits and withdrawals for payment methods or local currencies not supported by %1. It's easy to do."
@@ -14638,7 +14773,10 @@ msgstr ""
 msgid "You have a new Binary password to log in to Binary.com."
 msgstr ""
 
-msgid "You have a new MT5 password to log in to your MT5 accounts on the web and mobile apps."
+msgid "You have a new MT5 password to log in to your %1 accounts on the web and mobile apps."
+msgstr ""
+
+msgid "You have a trading password for MT5"
 msgstr ""
 
 msgid "You have added a %1 account."
@@ -14650,16 +14788,22 @@ msgstr ""
 msgid "You have already withdrawn %1%2."
 msgstr ""
 
+msgid "You have chosen to exclude yourself from trading on our website until %1. If you are unable to place a trade or deposit after your self-exclusion period, please contact us via live chat."
+msgstr ""
+
 msgid "You have created all accounts available to you."
 msgstr ""
 
 msgid "You have funds in these Binary accounts:"
 msgstr ""
 
+msgid "You have funds in these Deriv X accounts:"
+msgstr ""
+
 msgid "You have funds in these MT5 accounts:"
 msgstr ""
 
-msgid "You have insufficient funds in your Binary account, please <a href=\"%1\">add funds</a>."
+msgid "You have insufficient funds in your Binary account, please <a class=\"insufficient-funds-error-link\" href=\"%1\">add funds</a>."
 msgstr ""
 
 msgid "You have insufficient funds in your MT5 account."
@@ -14668,7 +14812,13 @@ msgstr ""
 msgid "You have not granted access to any applications."
 msgstr ""
 
+msgid "You have not provided your tax identification number. This information is necessary for legal and regulatory requirements. Please go to %1Personal details%2 in your account settings, and fill in your latest tax identification number."
+msgstr ""
+
 msgid "You have open positions in these Binary accounts:"
+msgstr ""
+
+msgid "You have open positions in these Deriv X accounts:"
 msgstr ""
 
 msgid "You have open positions in these MT5 accounts:"
@@ -14794,10 +14944,7 @@ msgstr ""
 msgid "You will not be able to change currency once you have made a deposit."
 msgstr ""
 
-msgid "You will not be able to change your fiat account's currency after creating this MT5 account. Are you sure you want to proceed?"
-msgstr ""
-
-msgid "You will not be able to change your fiat account's currency after making this deposit. Are you sure you want to proceed?"
+msgid "You will not be able to change your fiat account currency after creating this %1 account. Are you sure you want to proceed?"
 msgstr ""
 
 msgid "You will solve complex user experience problems, and seamlessly communicate product features and functions to our users through meaningful design. You will play a key role in creating intuitive and functional products that give our users the best experience possible so we can keep growing our user base and revenue."
@@ -14842,6 +14989,15 @@ msgstr ""
 msgid "Your %1 day withdrawal limit is currently %2%3."
 msgstr ""
 
+msgid "Your %1personal details%2 are incomplete. Please go to your account settings and complete your personal details to enable deposits and withdrawals."
+msgstr ""
+
+msgid "Your %1personal details%2 are incomplete. Please go to your account settings and complete your personal details to enable deposits."
+msgstr ""
+
+msgid "Your %1personal details%2 are incomplete. Please go to your account settings and complete your personal details to enable withdrawals."
+msgstr ""
+
 msgid "Your %1proof of address%2 has expired."
 msgstr ""
 
@@ -14852,9 +15008,6 @@ msgid "Your %1proof of identity%2 has expired."
 msgstr ""
 
 msgid "Your %1proof of identity%2 has not been verified."
-msgstr ""
-
-msgid "Your %1proof of identity%3 and %2proof of address%3 have expired."
 msgstr ""
 
 msgid "Your %1proof of identity%3 and %2proof of address%3 have not been verified."
@@ -14872,6 +15025,9 @@ msgstr ""
 msgid "Your Existing Accounts"
 msgstr ""
 
+msgid "Your access to Cashier has been temporarily disabled as you have not set your 30-day turnover limit. Please go to %1Self-exclusion%2 and set your 30-day turnover limit."
+msgstr ""
+
 msgid "Your account does not need authentication at this time.%1We will inform you if authentication is required in the future."
 msgstr ""
 
@@ -14879,6 +15035,12 @@ msgid "Your account has been verified successfully"
 msgstr ""
 
 msgid "Your account has no Login/Logout activity."
+msgstr ""
+
+msgid "Your account has not been authenticated. Please submit your %1proof of identity and proof of address%2 to authenticate your account and access your cashier."
+msgstr ""
+
+msgid "Your account has not been authenticated. Please submit your %1proof of identity and proof of address%2 to authenticate your account and request for withdrawals."
 msgstr ""
 
 msgid "Your account is fully authenticated and your withdrawal limits have been lifted."
@@ -14890,7 +15052,7 @@ msgstr ""
 msgid "Your account is now deactived."
 msgstr ""
 
-msgid "Your account is restricted. Kindly %1contact customer support%2 for assistance."
+msgid "Your account is temporarily disabled. Please contact us via live chat to enable deposits and withdrawals again."
 msgstr ""
 
 msgid "Your account remains under the retail client category."
@@ -14908,7 +15070,16 @@ msgstr ""
 msgid "Your application will then be reviewed by our compliance and marketing departments. Once approved, we will put you live in our %1payment agent%2 list."
 msgstr ""
 
+msgid "Your cashier is currently locked. Please contact us via live chat to find out how to unlock it."
+msgstr ""
+
 msgid "Your cashier is locked."
+msgstr ""
+
+msgid "Your cashier is locked. Please complete the %1financial assessment%2 to unlock it."
+msgstr ""
+
+msgid "Your cashier is locked. See %1how we protect your funds%2 before you proceed."
 msgstr ""
 
 msgid "Your cashier session has expired. Please try again."
@@ -14936,6 +15107,9 @@ msgid "Your document is being reviewed, please check back in 1-3 days. You must 
 msgstr ""
 
 msgid "Your document is being reviewed, please check back in 1-3 days. You must also submit a proof of identity."
+msgstr ""
+
+msgid "Your document number has been verified"
 msgstr ""
 
 msgid "Your face is needed in the selfie"
@@ -14981,9 +15155,6 @@ msgid "Your proof of address was submitted successfully"
 msgstr ""
 
 msgid "Your proof of identity has been verified successfully"
-msgstr ""
-
-msgid "Your proof of identity has expired"
 msgstr ""
 
 msgid "Your proof of identity submission failed because:"
@@ -15043,6 +15214,9 @@ msgstr ""
 msgid "You’ll need to fund your MQL5 account to subscribe to paid signals. Learn %1how to fund your account%2."
 msgstr ""
 
+msgid "You’ve not set your country of residence. To access Cashier, please update your %1country of residence%2 in the Personal details section in your account settings."
+msgstr ""
+
 msgid "ZEC vs US dollar"
 msgstr ""
 
@@ -15085,6 +15259,9 @@ msgstr ""
 msgid "a. Access the MT5 trading platform through the direct link %1 from DIEL's web interface, or"
 msgstr ""
 
+msgid "a. Account opened under a false name"
+msgstr ""
+
 msgid "an Order to execute a transaction to close an Open Position when the price reaches the client's specified price"
 msgstr ""
 
@@ -15100,10 +15277,16 @@ msgstr ""
 msgid "b. Download and install the MT5 trading platform through the link %1"
 msgstr ""
 
+msgid "b. Submission of fraudulent or tampered document"
+msgstr ""
+
 msgid "back"
 msgstr ""
 
 msgid "binary options, forex, forex trading, online trading, financial trading, binary trading, index trading, trading stock indices, forex trades, trading commodities, binary options strategy, binary broker, binary bet, binary options trading platform, binary strategy, finance, investment, trading"
+msgstr ""
+
+msgid "c. Opening of more than one Binary.com account"
 msgstr ""
 
 msgid "close"
@@ -15124,7 +15307,7 @@ msgstr ""
 msgid "deposit"
 msgstr ""
 
-msgid "deposit or create an MT5 account"
+msgid "deposit or create a CFDs account"
 msgstr ""
 
 msgid "details"
@@ -15134,6 +15317,9 @@ msgid "e.g. United States"
 msgstr ""
 
 msgid "e.g. frontend.binaryws.com"
+msgstr ""
+
+msgid "either"
 msgstr ""
 
 msgid "for account %1"
@@ -15272,4 +15458,7 @@ msgid "{SPAIN ONLY}This is a product with leverage. You should be aware that los
 msgstr ""
 
 msgid "{SPAIN ONLY}You are about to purchase a product that is not simple and may be difficult to understand: Contracts for difference and forex. As a general rule, the CNMV considers that such products are not appropriate for retail clients, due to their complexity."
+msgstr ""
+
+msgid "“Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed and regulated for digital options on synthetic indices by the Malta Gaming Authority in Malta (%1licence no. MGA/B2C/102/2000%2) and by Revenue Commissioners for clients in Ireland (licence no. 1010285)."
 msgstr ""

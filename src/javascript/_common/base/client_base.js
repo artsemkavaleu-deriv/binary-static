@@ -132,17 +132,17 @@ const ClientBase = (() => {
     const TypesMapConfig = (() => {
         let types_map_config;
 
-        const initTypesMap = () => ({
+        const initTypesMap = (loginid) => ({
             default  : localize('Real'),
-            financial: localize('Investment'),
-            gaming   : localize('Gaming'),
+            financial: localize('Multipliers'),
+            gaming   : get('residence', loginid) === 'gb' ? localize('Gaming') : localize('Options'),
             virtual  : localize('Demo'),
         });
 
         return {
-            get: () => {
+            get: (loginid) => {
                 if (!types_map_config) {
-                    types_map_config = initTypesMap();
+                    types_map_config = initTypesMap(loginid);
                 }
                 return types_map_config;
             },
@@ -150,7 +150,7 @@ const ClientBase = (() => {
     })();
 
     const getAccountTitle = loginid => {
-        const types_map = TypesMapConfig.get();
+        const types_map = TypesMapConfig.get(loginid);
         return (types_map[getAccountType(loginid)] || types_map.default);
     };
 
@@ -229,21 +229,22 @@ const ClientBase = (() => {
         !/crs_tin_information/.test((State.getResponse('get_account_status') || {}).status);
 
     const isAuthenticationAllowed = () => {
-        const { status, authentication } = State.getResponse('get_account_status');
-        const has_allow_document_upload = /allow_document_upload/.test(status);
-        const has_verification_flags = authentication.needs_verification.length;
-        return has_allow_document_upload || has_verification_flags;
+        const acccount = State.getResponse('get_account_status');
+        return acccount.status.some(s => s === 'allow_document_upload' || s === 'allow_poi_resubmission');
     };
 
     // * MT5 login list returns these:
     // market_type: "financial" | "gaming"
     // sub_account_type: "financial" | "financial_stp" | "swap_free"
     // *
-    const getMT5AccountDisplays = (market_type, sub_account_type, is_demo) => {
+    const getMT5AccountDisplays = (market_type, sub_account_type, is_demo, landing_company_short, is_eu) => {
         // needs to be declared inside because of localize
         // TODO: handle swap_free when ready
 
         const account_market_type = (market_type === 'synthetic' || market_type === 'gaming') ? 'gaming' : market_type;
+        const real_financial = is_eu ? localize('Real CFDs') : localize('Real Financial');
+        const demo_financial = is_eu ? localize('Demo CFDs') : localize('Demo Financial');
+
         const obj_display = {
             gaming: {
                 financial: {
@@ -253,8 +254,8 @@ const ClientBase = (() => {
             },
             financial: {
                 financial: {
-                    short: localize('Financial'),
-                    full : is_demo ? localize('Demo Financial') : localize('Real Financial'),
+                    short: landing_company_short === 'maltainvest' ? localize('CFDs') : localize('Financial'),
+                    full : is_demo ? demo_financial : real_financial,
                 },
                 financial_stp: {
                     short: localize('Financial STP'),
@@ -340,8 +341,8 @@ const ClientBase = (() => {
 
         return (
             isAccountOfType('financial') ?
-                /(financial_assessment|trading_experience)_not_complete/.test(status) :
-                /financial_assessment_not_complete/.test(status)
+                /(financial_information|trading_experience)_not_complete/.test(status) :
+                /financial_information_not_complete/.test(status)
         );
     };
 
@@ -383,8 +384,8 @@ const ClientBase = (() => {
 
     const hasSvgAccount = () => !!(getAllLoginids().find(loginid => /^CR/.test(loginid)));
 
-    const canChangeCurrency = (statement, mt5_login_list, is_current = true) => {
-        const currency             = get('currency');
+    const canChangeCurrency = (statement, mt5_login_list, loginid, is_current = true) => {
+        const currency             = get('currency', loginid);
         const has_no_mt5           = !mt5_login_list || !mt5_login_list.length;
         const has_no_transaction   = (statement.count === 0 && statement.transactions.length === 0);
         const has_account_criteria = has_no_transaction && has_no_mt5;
@@ -394,11 +395,11 @@ const ClientBase = (() => {
         // 2. User must not have any MT5 account
         // 3. Not be a crypto account
         // 4. Not be a virtual account
-        return is_current ? currency && !get('is_virtual') && has_account_criteria && !isCryptocurrency(currency) : has_account_criteria;
+        return is_current ? currency && !get('is_virtual', loginid) && has_account_criteria && !isCryptocurrency(currency) : has_account_criteria;
     };
 
     const isOptionsBlocked = () => {
-        const options_blocked_countries = ['au'];
+        const options_blocked_countries = ['au', 'fr'];
         const country = State.getResponse('authorize.country');
 
         return options_blocked_countries.includes(country);
